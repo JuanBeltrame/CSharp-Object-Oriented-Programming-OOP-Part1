@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Roadmap\\1-DotNet-Essentials\\1. Conceptos Basicos\\1.2 Exercise\\Library Exercise 1.2\\Library Exercise 1.2.csproj": {}
+    "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-DotNet-Essentials\\1. Conceptos Basicos\\1.2 Exercise\\Library Exercise 1.2\\Library Exercise 1.2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Roadmap\\1-DotNet-Essentials\\1. Conceptos Basicos\\1.2 Exercise\\Library Exercise 1.2\\Library Exercise 1.2.csproj": {
+    "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-DotNet-Essentials\\1. Conceptos Basicos\\1.2 Exercise\\Library Exercise 1.2\\Library Exercise 1.2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Roadmap\\1-DotNet-Essentials\\1. Conceptos Basicos\\1.2 Exercise\\Library Exercise 1.2\\Library Exercise 1.2.csproj",
+        "projectUniqueName": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-DotNet-Essentials\\1. Conceptos Basicos\\1.2 Exercise\\Library Exercise 1.2\\Library Exercise 1.2.csproj",
         "projectName": "Library Exercise 1.2",
-        "projectPath": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Roadmap\\1-DotNet-Essentials\\1. Conceptos Basicos\\1.2 Exercise\\Library Exercise 1.2\\Library Exercise 1.2.csproj",
+        "projectPath": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-DotNet-Essentials\\1. Conceptos Basicos\\1.2 Exercise\\Library Exercise 1.2\\Library Exercise 1.2.csproj",
         "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Roadmap\\1-DotNet-Essentials\\1. Conceptos Basicos\\1.2 Exercise\\Library Exercise 1.2\\obj\\",
+        "outputPath": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-DotNet-Essentials\\1. Conceptos Basicos\\1.2 Exercise\\Library Exercise 1.2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
