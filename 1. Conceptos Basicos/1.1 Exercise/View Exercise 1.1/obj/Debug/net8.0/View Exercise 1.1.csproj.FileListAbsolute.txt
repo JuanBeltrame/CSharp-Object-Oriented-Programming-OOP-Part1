@@ -1,0 +1,15 @@
+E:\JuanB (Disco E)\CSharp-Roadmap\DotNet-Essentials\1. Conceptos Basicos\1.1 Exercise\View Exercise 1.1\bin\Debug\net8.0\View Exercise 1.1.exe
+E:\JuanB (Disco E)\CSharp-Roadmap\DotNet-Essentials\1. Conceptos Basicos\1.1 Exercise\View Exercise 1.1\bin\Debug\net8.0\View Exercise 1.1.deps.json
+E:\JuanB (Disco E)\CSharp-Roadmap\DotNet-Essentials\1. Conceptos Basicos\1.1 Exercise\View Exercise 1.1\bin\Debug\net8.0\View Exercise 1.1.runtimeconfig.json
+E:\JuanB (Disco E)\CSharp-Roadmap\DotNet-Essentials\1. Conceptos Basicos\1.1 Exercise\View Exercise 1.1\bin\Debug\net8.0\View Exercise 1.1.dll
+E:\JuanB (Disco E)\CSharp-Roadmap\DotNet-Essentials\1. Conceptos Basicos\1.1 Exercise\View Exercise 1.1\bin\Debug\net8.0\View Exercise 1.1.pdb
+E:\JuanB (Disco E)\CSharp-Roadmap\DotNet-Essentials\1. Conceptos Basicos\1.1 Exercise\View Exercise 1.1\obj\Debug\net8.0\View Exercise 1.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\JuanB (Disco E)\CSharp-Roadmap\DotNet-Essentials\1. Conceptos Basicos\1.1 Exercise\View Exercise 1.1\obj\Debug\net8.0\View Exercise 1.1.AssemblyInfoInputs.cache
+E:\JuanB (Disco E)\CSharp-Roadmap\DotNet-Essentials\1. Conceptos Basicos\1.1 Exercise\View Exercise 1.1\obj\Debug\net8.0\View Exercise 1.1.AssemblyInfo.cs
+E:\JuanB (Disco E)\CSharp-Roadmap\DotNet-Essentials\1. Conceptos Basicos\1.1 Exercise\View Exercise 1.1\obj\Debug\net8.0\View Exercise 1.1.csproj.CoreCompileInputs.cache
+E:\JuanB (Disco E)\CSharp-Roadmap\DotNet-Essentials\1. Conceptos Basicos\1.1 Exercise\View Exercise 1.1\obj\Debug\net8.0\View Exercise 1.1.sourcelink.json
+E:\JuanB (Disco E)\CSharp-Roadmap\DotNet-Essentials\1. Conceptos Basicos\1.1 Exercise\View Exercise 1.1\obj\Debug\net8.0\View Exercise 1.1.dll
+E:\JuanB (Disco E)\CSharp-Roadmap\DotNet-Essentials\1. Conceptos Basicos\1.1 Exercise\View Exercise 1.1\obj\Debug\net8.0\refint\View Exercise 1.1.dll
+E:\JuanB (Disco E)\CSharp-Roadmap\DotNet-Essentials\1. Conceptos Basicos\1.1 Exercise\View Exercise 1.1\obj\Debug\net8.0\View Exercise 1.1.pdb
+E:\JuanB (Disco E)\CSharp-Roadmap\DotNet-Essentials\1. Conceptos Basicos\1.1 Exercise\View Exercise 1.1\obj\Debug\net8.0\View Exercise 1.1.genruntimeconfig.cache
+E:\JuanB (Disco E)\CSharp-Roadmap\DotNet-Essentials\1. Conceptos Basicos\1.1 Exercise\View Exercise 1.1\obj\Debug\net8.0\ref\View Exercise 1.1.dll

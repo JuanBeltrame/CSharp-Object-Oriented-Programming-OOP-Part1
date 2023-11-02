@@ -1,0 +1,15 @@
+E:\JuanB (Disco E)\CSharp-Roadmap\DotNet-Essentials\3. Objetos\bin\Debug\net8.0\3. Objetos.exe
+E:\JuanB (Disco E)\CSharp-Roadmap\DotNet-Essentials\3. Objetos\bin\Debug\net8.0\3. Objetos.deps.json
+E:\JuanB (Disco E)\CSharp-Roadmap\DotNet-Essentials\3. Objetos\bin\Debug\net8.0\3. Objetos.runtimeconfig.json
+E:\JuanB (Disco E)\CSharp-Roadmap\DotNet-Essentials\3. Objetos\bin\Debug\net8.0\3. Objetos.dll
+E:\JuanB (Disco E)\CSharp-Roadmap\DotNet-Essentials\3. Objetos\bin\Debug\net8.0\3. Objetos.pdb
+E:\JuanB (Disco E)\CSharp-Roadmap\DotNet-Essentials\3. Objetos\obj\Debug\net8.0\3. Objetos.GeneratedMSBuildEditorConfig.editorconfig
+E:\JuanB (Disco E)\CSharp-Roadmap\DotNet-Essentials\3. Objetos\obj\Debug\net8.0\3. Objetos.AssemblyInfoInputs.cache
+E:\JuanB (Disco E)\CSharp-Roadmap\DotNet-Essentials\3. Objetos\obj\Debug\net8.0\3. Objetos.AssemblyInfo.cs
+E:\JuanB (Disco E)\CSharp-Roadmap\DotNet-Essentials\3. Objetos\obj\Debug\net8.0\3. Objetos.csproj.CoreCompileInputs.cache
+E:\JuanB (Disco E)\CSharp-Roadmap\DotNet-Essentials\3. Objetos\obj\Debug\net8.0\3. Objetos.sourcelink.json
+E:\JuanB (Disco E)\CSharp-Roadmap\DotNet-Essentials\3. Objetos\obj\Debug\net8.0\3. Objetos.dll
+E:\JuanB (Disco E)\CSharp-Roadmap\DotNet-Essentials\3. Objetos\obj\Debug\net8.0\refint\3. Objetos.dll
+E:\JuanB (Disco E)\CSharp-Roadmap\DotNet-Essentials\3. Objetos\obj\Debug\net8.0\3. Objetos.pdb
+E:\JuanB (Disco E)\CSharp-Roadmap\DotNet-Essentials\3. Objetos\obj\Debug\net8.0\3. Objetos.genruntimeconfig.cache
+E:\JuanB (Disco E)\CSharp-Roadmap\DotNet-Essentials\3. Objetos\obj\Debug\net8.0\ref\3. Objetos.dll
