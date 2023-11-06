@@ -17,13 +17,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.1 Exercise", "1.1 Exercis
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.2 Exercise", "1.2 Exercise", "{28B631D3-F174-48CA-A56D-ED4CFAA19C7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library Exercise 1.1", "1. Conceptos Basicos\1.1 Exercise\Library Exercise 1.1\Library Exercise 1.1.csproj", "{5952C22C-B4D2-4EAA-BA65-2D3085780DD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library Exercise 1.1", "1. Conceptos Basicos\1.1 Exercise\Library Exercise 1.1\Library Exercise 1.1.csproj", "{5952C22C-B4D2-4EAA-BA65-2D3085780DD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "View Exercise 1.1", "1. Conceptos Basicos\1.1 Exercise\View Exercise 1.1\View Exercise 1.1.csproj", "{321D34A4-86D0-481C-9CCC-93678DD75F67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "View Exercise 1.1", "1. Conceptos Basicos\1.1 Exercise\View Exercise 1.1\View Exercise 1.1.csproj", "{321D34A4-86D0-481C-9CCC-93678DD75F67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library Exercise 1.2", "1. Conceptos Basicos\1.2 Exercise\Library Exercise 1.2\Library Exercise 1.2.csproj", "{EEE7B45D-8F86-4AF6-A820-A2C8E197D341}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library Exercise 1.2", "1. Conceptos Basicos\1.2 Exercise\Library Exercise 1.2\Library Exercise 1.2.csproj", "{EEE7B45D-8F86-4AF6-A820-A2C8E197D341}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "View Exercise 1.2", "1. Conceptos Basicos\1.2 Exercise\View Exercise 1.2\View Exercise 1.2.csproj", "{BD556C92-83F1-4ED7-8478-9ECE5CF3CA5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "View Exercise 1.2", "1. Conceptos Basicos\1.2 Exercise\View Exercise 1.2\View Exercise 1.2.csproj", "{BD556C92-83F1-4ED7-8478-9ECE5CF3CA5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library Exercise 1.3", "1. Conceptos Basicos\1.3 Exercise\Library Exercise 1.3\Library Exercise 1.3.csproj", "{9711EC1F-27BD-44E0-8379-B272DB36A260}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.3 Exercise", "1.3 Exercise", "{BF8C3B5E-8A9E-468B-BEFC-497199F07CBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "View Exercise 1.2", "1. Conceptos Basicos\1.3 Exercise\View Exercise 1.2\View Exercise 1.2.csproj", "{59F09948-0F9F-444E-80BE-423FE55FC74E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -55,6 +61,14 @@ Global
 		{BD556C92-83F1-4ED7-8478-9ECE5CF3CA5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD556C92-83F1-4ED7-8478-9ECE5CF3CA5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD556C92-83F1-4ED7-8478-9ECE5CF3CA5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9711EC1F-27BD-44E0-8379-B272DB36A260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9711EC1F-27BD-44E0-8379-B272DB36A260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9711EC1F-27BD-44E0-8379-B272DB36A260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9711EC1F-27BD-44E0-8379-B272DB36A260}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59F09948-0F9F-444E-80BE-423FE55FC74E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59F09948-0F9F-444E-80BE-423FE55FC74E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59F09948-0F9F-444E-80BE-423FE55FC74E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59F09948-0F9F-444E-80BE-423FE55FC74E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -68,6 +82,9 @@ Global
 		{321D34A4-86D0-481C-9CCC-93678DD75F67} = {66A33B85-B9DC-4A51-BDD2-2525DCE93A8B}
 		{EEE7B45D-8F86-4AF6-A820-A2C8E197D341} = {28B631D3-F174-48CA-A56D-ED4CFAA19C7A}
 		{BD556C92-83F1-4ED7-8478-9ECE5CF3CA5D} = {28B631D3-F174-48CA-A56D-ED4CFAA19C7A}
+		{9711EC1F-27BD-44E0-8379-B272DB36A260} = {BF8C3B5E-8A9E-468B-BEFC-497199F07CBF}
+		{BF8C3B5E-8A9E-468B-BEFC-497199F07CBF} = {0544F13F-67CB-4760-B000-DF39839BCDB7}
+		{59F09948-0F9F-444E-80BE-423FE55FC74E} = {BF8C3B5E-8A9E-468B-BEFC-497199F07CBF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A1F3F4B6-A57C-4615-A1A2-916E35880697}
