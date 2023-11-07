@@ -1,0 +1,15 @@
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\View for Basic Concepts\bin\Debug\net8.0\View for Basic Concepts.exe
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\View for Basic Concepts\bin\Debug\net8.0\View for Basic Concepts.deps.json
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\View for Basic Concepts\bin\Debug\net8.0\View for Basic Concepts.runtimeconfig.json
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\View for Basic Concepts\bin\Debug\net8.0\View for Basic Concepts.dll
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\View for Basic Concepts\bin\Debug\net8.0\View for Basic Concepts.pdb
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\View for Basic Concepts\obj\Debug\net8.0\View for Basic Concepts.GeneratedMSBuildEditorConfig.editorconfig
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\View for Basic Concepts\obj\Debug\net8.0\View for Basic Concepts.AssemblyInfoInputs.cache
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\View for Basic Concepts\obj\Debug\net8.0\View for Basic Concepts.AssemblyInfo.cs
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\View for Basic Concepts\obj\Debug\net8.0\View for Basic Concepts.csproj.CoreCompileInputs.cache
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\View for Basic Concepts\obj\Debug\net8.0\View for Basic Concepts.sourcelink.json
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\View for Basic Concepts\obj\Debug\net8.0\View for Basic Concepts.dll
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\View for Basic Concepts\obj\Debug\net8.0\refint\View for Basic Concepts.dll
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\View for Basic Concepts\obj\Debug\net8.0\View for Basic Concepts.pdb
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\View for Basic Concepts\obj\Debug\net8.0\View for Basic Concepts.genruntimeconfig.cache
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\View for Basic Concepts\obj\Debug\net8.0\ref\View for Basic Concepts.dll
