@@ -3,13 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34212.112
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Contenido de Conceptos Basicos", "1. Contenido de Conceptos Basicos", "{0544F13F-67CB-4760-B000-DF39839BCDB7}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Contenido de Conceptos Basicos", "01. Contenido de Conceptos Basicos", "{0544F13F-67CB-4760-B000-DF39839BCDB7}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Contenido de Objetos", "3. Contenido de Objetos", "{E0291246-719F-4258-9E4F-CA69098E95A5}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. Contenido de Objetos", "03. Contenido de Objetos", "{E0291246-719F-4258-9E4F-CA69098E95A5}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Contenido de Metodos Estaticos", "2. Contenido de Metodos Estaticos", "{42A8DC95-1F9C-47B3-BEB7-3B3668B9F10A}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "View For Static Methods", "02. Contenido de Metodos Estaticos\View For Static Methods\View For Static Methods.csproj", "{81749D8A-21E6-41C0-A13C-1F33EDC3D54A}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Contenido de Metodos Estaticos", "02. Contenido de Metodos Estaticos", "{42A8DC95-1F9C-47B3-BEB7-3B3668B9F10A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "View for Basic Concepts", "01. Contenido de Conceptos Basicos\View for Basic Concepts\View for Basic Concepts.csproj", "{91D9CC05-D1C7-4E4A-B292-DD0927248D75}"
 EndProject
@@ -21,7 +19,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library Exercise 01.1.03", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library Example 02.0.01", "02. Contenido de Metodos Estaticos\Library Example 02.0.01\Library Example 02.0.01.csproj", "{2944DB7E-80D6-49D1-B715-86893CCEE299}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library Example 02.0.02", "02. Contenido de Metodos Estaticos\Library Example 02.0.02\Library Example 02.0.02.csproj", "{97E3EF68-E4F9-4782-B1A6-187F49EFB4EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library Example 02.0.02", "02. Contenido de Metodos Estaticos\Library Example 02.0.02\Library Example 02.0.02.csproj", "{97E3EF68-E4F9-4782-B1A6-187F49EFB4EE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "View for Static Methods", "02. Contenido de Metodos Estaticos\View for Static Methods\View for Static Methods.csproj", "{0C8285A8-03A4-4C91-98EB-ACA85DEFB3E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "View for Objects", "03. Contenido de Objetos\View for Objects\View for Objects.csproj", "{BFE0A74B-3757-41E2-AD67-8C0A77F22E6A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. Contenido de Sobrecarga", "04. Contenido de Sobrecarga", "{1228412C-AF0E-4B95-B1E0-FB782649AF4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "View for Overloads", "04. Contenido de Sobrecarga\View for Overloads\View for Overloads.csproj", "{17F52DDC-700D-418E-BEFC-384E58764A7C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +35,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{81749D8A-21E6-41C0-A13C-1F33EDC3D54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{81749D8A-21E6-41C0-A13C-1F33EDC3D54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{81749D8A-21E6-41C0-A13C-1F33EDC3D54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{81749D8A-21E6-41C0-A13C-1F33EDC3D54A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{91D9CC05-D1C7-4E4A-B292-DD0927248D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{91D9CC05-D1C7-4E4A-B292-DD0927248D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91D9CC05-D1C7-4E4A-B292-DD0927248D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -57,18 +59,32 @@ Global
 		{97E3EF68-E4F9-4782-B1A6-187F49EFB4EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97E3EF68-E4F9-4782-B1A6-187F49EFB4EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97E3EF68-E4F9-4782-B1A6-187F49EFB4EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C8285A8-03A4-4C91-98EB-ACA85DEFB3E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C8285A8-03A4-4C91-98EB-ACA85DEFB3E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C8285A8-03A4-4C91-98EB-ACA85DEFB3E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C8285A8-03A4-4C91-98EB-ACA85DEFB3E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFE0A74B-3757-41E2-AD67-8C0A77F22E6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE0A74B-3757-41E2-AD67-8C0A77F22E6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE0A74B-3757-41E2-AD67-8C0A77F22E6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE0A74B-3757-41E2-AD67-8C0A77F22E6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17F52DDC-700D-418E-BEFC-384E58764A7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17F52DDC-700D-418E-BEFC-384E58764A7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17F52DDC-700D-418E-BEFC-384E58764A7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17F52DDC-700D-418E-BEFC-384E58764A7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{81749D8A-21E6-41C0-A13C-1F33EDC3D54A} = {42A8DC95-1F9C-47B3-BEB7-3B3668B9F10A}
 		{91D9CC05-D1C7-4E4A-B292-DD0927248D75} = {0544F13F-67CB-4760-B000-DF39839BCDB7}
 		{5F5CC46C-A865-4F99-AF92-5B152D6ABD4F} = {0544F13F-67CB-4760-B000-DF39839BCDB7}
 		{6DAAB085-0BAC-4CF0-A8C1-080C8C619C59} = {0544F13F-67CB-4760-B000-DF39839BCDB7}
 		{197C01DA-9167-43B6-A0A9-D0054BD3153E} = {0544F13F-67CB-4760-B000-DF39839BCDB7}
 		{2944DB7E-80D6-49D1-B715-86893CCEE299} = {42A8DC95-1F9C-47B3-BEB7-3B3668B9F10A}
 		{97E3EF68-E4F9-4782-B1A6-187F49EFB4EE} = {42A8DC95-1F9C-47B3-BEB7-3B3668B9F10A}
+		{0C8285A8-03A4-4C91-98EB-ACA85DEFB3E4} = {42A8DC95-1F9C-47B3-BEB7-3B3668B9F10A}
+		{BFE0A74B-3757-41E2-AD67-8C0A77F22E6A} = {E0291246-719F-4258-9E4F-CA69098E95A5}
+		{17F52DDC-700D-418E-BEFC-384E58764A7C} = {1228412C-AF0E-4B95-B1E0-FB782649AF4E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A1F3F4B6-A57C-4615-A1A2-916E35880697}
