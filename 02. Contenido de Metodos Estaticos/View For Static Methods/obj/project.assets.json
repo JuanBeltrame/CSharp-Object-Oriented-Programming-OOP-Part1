@@ -1,11 +1,46 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Library Example 02.0.01/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Library Example 02.0.01.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Library Example 02.0.01.dll": {}
+        }
+      },
+      "Library Example 02.0.02/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Library Example 02.0.02.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Library Example 02.0.02.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Library Example 02.0.01/1.0.0": {
+      "type": "project",
+      "path": "../Library Example 02.0.01/Library Example 02.0.01.csproj",
+      "msbuildProject": "../Library Example 02.0.01/Library Example 02.0.01.csproj"
+    },
+    "Library Example 02.0.02/1.0.0": {
+      "type": "project",
+      "path": "../Library Example 02.0.02/Library Example 02.0.02.csproj",
+      "msbuildProject": "../Library Example 02.0.02/Library Example 02.0.02.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "Library Example 02.0.01 >= 1.0.0",
+      "Library Example 02.0.02 >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\jbeltrame\\.nuget\\packages\\": {},
@@ -14,11 +49,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\View For Static Methods\\View For Static Methods.csproj",
-      "projectName": "View For Static Methods",
-      "projectPath": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\View For Static Methods\\View For Static Methods.csproj",
+      "projectUniqueName": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\View for Static Methods\\View for Static Methods.csproj",
+      "projectName": "View for Static Methods",
+      "projectPath": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\View for Static Methods\\View for Static Methods.csproj",
       "packagesPath": "C:\\Users\\jbeltrame\\.nuget\\packages\\",
-      "outputPath": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\View For Static Methods\\obj\\",
+      "outputPath": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\View for Static Methods\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -39,7 +74,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.01\\Library Example 02.0.01.csproj": {
+              "projectPath": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.01\\Library Example 02.0.01.csproj"
+            },
+            "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.02\\Library Example 02.0.02.csproj": {
+              "projectPath": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.02\\Library Example 02.0.02.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
