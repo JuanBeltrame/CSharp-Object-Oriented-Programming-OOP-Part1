@@ -1,0 +1,19 @@
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\02. Contenido de Metodos Estaticos\View For Static Methods\bin\Debug\net8.0\View For Static Methods.exe
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\02. Contenido de Metodos Estaticos\View For Static Methods\bin\Debug\net8.0\View For Static Methods.deps.json
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\02. Contenido de Metodos Estaticos\View For Static Methods\bin\Debug\net8.0\View For Static Methods.runtimeconfig.json
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\02. Contenido de Metodos Estaticos\View For Static Methods\bin\Debug\net8.0\View For Static Methods.dll
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\02. Contenido de Metodos Estaticos\View For Static Methods\bin\Debug\net8.0\View For Static Methods.pdb
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\02. Contenido de Metodos Estaticos\View For Static Methods\bin\Debug\net8.0\Library 02.0.01.dll
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\02. Contenido de Metodos Estaticos\View For Static Methods\bin\Debug\net8.0\Library 02.0.01.pdb
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\02. Contenido de Metodos Estaticos\View For Static Methods\obj\Debug\net8.0\View For Static Methods.csproj.AssemblyReference.cache
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\02. Contenido de Metodos Estaticos\View For Static Methods\obj\Debug\net8.0\View For Static Methods.GeneratedMSBuildEditorConfig.editorconfig
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\02. Contenido de Metodos Estaticos\View For Static Methods\obj\Debug\net8.0\View For Static Methods.AssemblyInfoInputs.cache
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\02. Contenido de Metodos Estaticos\View For Static Methods\obj\Debug\net8.0\View For Static Methods.AssemblyInfo.cs
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\02. Contenido de Metodos Estaticos\View For Static Methods\obj\Debug\net8.0\View For Static Methods.csproj.CoreCompileInputs.cache
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\02. Contenido de Metodos Estaticos\View For Static Methods\obj\Debug\net8.0\View For Static Methods.sourcelink.json
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\02. Contenido de Metodos Estaticos\View For Static Methods\obj\Debug\net8.0\View For Static Methods.csproj.CopyComplete
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\02. Contenido de Metodos Estaticos\View For Static Methods\obj\Debug\net8.0\View For Static Methods.dll
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\02. Contenido de Metodos Estaticos\View For Static Methods\obj\Debug\net8.0\refint\View For Static Methods.dll
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\02. Contenido de Metodos Estaticos\View For Static Methods\obj\Debug\net8.0\View For Static Methods.pdb
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\02. Contenido de Metodos Estaticos\View For Static Methods\obj\Debug\net8.0\View For Static Methods.genruntimeconfig.cache
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\02. Contenido de Metodos Estaticos\View For Static Methods\obj\Debug\net8.0\ref\View For Static Methods.dll

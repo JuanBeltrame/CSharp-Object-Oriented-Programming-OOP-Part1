@@ -1,0 +1,15 @@
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\1.3 Exercise\View Exercise 1.3\bin\Debug\net8.0\View Exercise 1.3.exe
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\1.3 Exercise\View Exercise 1.3\bin\Debug\net8.0\View Exercise 1.3.deps.json
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\1.3 Exercise\View Exercise 1.3\bin\Debug\net8.0\View Exercise 1.3.runtimeconfig.json
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\1.3 Exercise\View Exercise 1.3\bin\Debug\net8.0\View Exercise 1.3.dll
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\1.3 Exercise\View Exercise 1.3\bin\Debug\net8.0\View Exercise 1.3.pdb
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\1.3 Exercise\View Exercise 1.3\obj\Debug\net8.0\View Exercise 1.3.GeneratedMSBuildEditorConfig.editorconfig
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\1.3 Exercise\View Exercise 1.3\obj\Debug\net8.0\View Exercise 1.3.AssemblyInfoInputs.cache
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\1.3 Exercise\View Exercise 1.3\obj\Debug\net8.0\View Exercise 1.3.AssemblyInfo.cs
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\1.3 Exercise\View Exercise 1.3\obj\Debug\net8.0\View Exercise 1.3.csproj.CoreCompileInputs.cache
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\1.3 Exercise\View Exercise 1.3\obj\Debug\net8.0\View Exercise 1.3.sourcelink.json
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\1.3 Exercise\View Exercise 1.3\obj\Debug\net8.0\View Exercise 1.3.dll
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\1.3 Exercise\View Exercise 1.3\obj\Debug\net8.0\refint\View Exercise 1.3.dll
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\1.3 Exercise\View Exercise 1.3\obj\Debug\net8.0\View Exercise 1.3.pdb
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\1.3 Exercise\View Exercise 1.3\obj\Debug\net8.0\View Exercise 1.3.genruntimeconfig.cache
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\1.3 Exercise\View Exercise 1.3\obj\Debug\net8.0\ref\View Exercise 1.3.dll
