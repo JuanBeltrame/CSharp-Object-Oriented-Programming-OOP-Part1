@@ -16,6 +16,11 @@
             return temperaturaKelvin;
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="temperatuaKelvin"></param>
+        /// <returns></returns>
         public static float ConvertirKelvinACelciud(float temperatuaKelvin)
         {
             float temperaturaCelsius = temperatuaKelvin - ceroAbsoluto;
