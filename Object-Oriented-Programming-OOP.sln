@@ -31,9 +31,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "View for Static Methods", "
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00. Trabajando con Clases", "00. Trabajando con Clases", "{9FE9955D-8A10-4BFB-B9D3-425A806E2F93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console to work with StringBuilder", "00. Trabajando con Clases\Console to work with StringBuilder\Console to work with StringBuilder.csproj", "{1E83E257-0174-4479-A695-E7A7C486EC7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console to work with StringBuilder", "00. Trabajando con Clases\Console to work with StringBuilder\Console to work with StringBuilder.csproj", "{1E83E257-0174-4479-A695-E7A7C486EC7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console to work with Strings", "00. Trabajando con Clases\Console to work with Strings\Console to work with Strings.csproj", "{B661F9BD-B8D6-414E-BDCD-C1518E87CA5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console to work with Strings", "00. Trabajando con Clases\Console to work with Strings\Console to work with Strings.csproj", "{B661F9BD-B8D6-414E-BDCD-C1518E87CA5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library Example 02.0.03", "02. Contenido de Metodos Estaticos\Library Example 02.0.03\Library Example 02.0.03.csproj", "{7AC99A5B-0DD2-44AC-ABDE-548D80FFAFBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library Example 02.0.04", "02. Contenido de Metodos Estaticos\Library Example 02.0.04\Library Example 02.0.04.csproj", "{9AF964C4-A769-4DEC-9A06-3324E01463FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library Example 02.0.05", "02. Contenido de Metodos Estaticos\Library Example 02.0.05\Library Example 02.0.05.csproj", "{D7BBCF0D-BE21-4934-AC7F-1BD8889E8706}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -85,6 +91,18 @@ Global
 		{B661F9BD-B8D6-414E-BDCD-C1518E87CA5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B661F9BD-B8D6-414E-BDCD-C1518E87CA5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B661F9BD-B8D6-414E-BDCD-C1518E87CA5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AC99A5B-0DD2-44AC-ABDE-548D80FFAFBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AC99A5B-0DD2-44AC-ABDE-548D80FFAFBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AC99A5B-0DD2-44AC-ABDE-548D80FFAFBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AC99A5B-0DD2-44AC-ABDE-548D80FFAFBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AF964C4-A769-4DEC-9A06-3324E01463FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AF964C4-A769-4DEC-9A06-3324E01463FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AF964C4-A769-4DEC-9A06-3324E01463FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AF964C4-A769-4DEC-9A06-3324E01463FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7BBCF0D-BE21-4934-AC7F-1BD8889E8706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7BBCF0D-BE21-4934-AC7F-1BD8889E8706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7BBCF0D-BE21-4934-AC7F-1BD8889E8706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7BBCF0D-BE21-4934-AC7F-1BD8889E8706}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -101,6 +119,9 @@ Global
 		{263FEDEF-DE87-4B36-9420-076638E16E77} = {42A8DC95-1F9C-47B3-BEB7-3B3668B9F10A}
 		{1E83E257-0174-4479-A695-E7A7C486EC7D} = {9FE9955D-8A10-4BFB-B9D3-425A806E2F93}
 		{B661F9BD-B8D6-414E-BDCD-C1518E87CA5C} = {9FE9955D-8A10-4BFB-B9D3-425A806E2F93}
+		{7AC99A5B-0DD2-44AC-ABDE-548D80FFAFBA} = {42A8DC95-1F9C-47B3-BEB7-3B3668B9F10A}
+		{9AF964C4-A769-4DEC-9A06-3324E01463FA} = {42A8DC95-1F9C-47B3-BEB7-3B3668B9F10A}
+		{D7BBCF0D-BE21-4934-AC7F-1BD8889E8706} = {42A8DC95-1F9C-47B3-BEB7-3B3668B9F10A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A1F3F4B6-A57C-4615-A1A2-916E35880697}

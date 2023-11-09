@@ -1,4 +1,4 @@
-﻿namespace Library_02._0._01
+﻿namespace Library_Example_02._0._01
 {
     public static class Cotizador
     {

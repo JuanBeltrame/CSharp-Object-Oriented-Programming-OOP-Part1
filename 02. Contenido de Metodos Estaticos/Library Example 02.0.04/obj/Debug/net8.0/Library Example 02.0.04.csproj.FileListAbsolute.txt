@@ -1,0 +1,12 @@
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\02. Contenido de Metodos Estaticos\Library Example 02.0.04\bin\Debug\net8.0\Library Example 02.0.04.deps.json
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\02. Contenido de Metodos Estaticos\Library Example 02.0.04\bin\Debug\net8.0\Library Example 02.0.04.dll
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\02. Contenido de Metodos Estaticos\Library Example 02.0.04\bin\Debug\net8.0\Library Example 02.0.04.pdb
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\02. Contenido de Metodos Estaticos\Library Example 02.0.04\obj\Debug\net8.0\Library Example 02.0.04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\02. Contenido de Metodos Estaticos\Library Example 02.0.04\obj\Debug\net8.0\Library Example 02.0.04.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\02. Contenido de Metodos Estaticos\Library Example 02.0.04\obj\Debug\net8.0\Library Example 02.0.04.AssemblyInfo.cs
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\02. Contenido de Metodos Estaticos\Library Example 02.0.04\obj\Debug\net8.0\Library Example 02.0.04.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\02. Contenido de Metodos Estaticos\Library Example 02.0.04\obj\Debug\net8.0\Library Example 02.0.04.sourcelink.json
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\02. Contenido de Metodos Estaticos\Library Example 02.0.04\obj\Debug\net8.0\Library Example 02.0.04.dll
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\02. Contenido de Metodos Estaticos\Library Example 02.0.04\obj\Debug\net8.0\refint\Library Example 02.0.04.dll
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\02. Contenido de Metodos Estaticos\Library Example 02.0.04\obj\Debug\net8.0\Library Example 02.0.04.pdb
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\02. Contenido de Metodos Estaticos\Library Example 02.0.04\obj\Debug\net8.0\ref\Library Example 02.0.04.dll

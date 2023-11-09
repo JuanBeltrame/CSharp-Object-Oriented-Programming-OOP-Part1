@@ -20,6 +20,21 @@
         "runtime": {
           "Library Example 02.0.02.dll": {}
         }
+      },
+      "Library Example 02.0.03/1.0.0": {
+        "runtime": {
+          "Library Example 02.0.03.dll": {}
+        }
+      },
+      "Library Example 02.0.04/1.0.0": {
+        "runtime": {
+          "Library Example 02.0.04.dll": {}
+        }
+      },
+      "Library Example 02.0.05/1.0.0": {
+        "runtime": {
+          "Library Example 02.0.05.dll": {}
+        }
       }
     }
   },
@@ -35,6 +50,21 @@
       "sha512": ""
     },
     "Library Example 02.0.02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Library Example 02.0.03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Library Example 02.0.04/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Library Example 02.0.05/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
