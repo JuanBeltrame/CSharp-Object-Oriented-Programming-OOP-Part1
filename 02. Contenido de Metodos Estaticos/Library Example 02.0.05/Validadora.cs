@@ -2,8 +2,18 @@
 {
     public class Validadora
     {
+
+        private static List<string> historialPalabrasValidadas;
+
+        static Validadora()
+        {
+            historialPalabrasValidadas = new List<string>();
+        }
+
         public static bool ValidarString(string dato, int longitudMinima)
         {
+            historialPalabrasValidadas.Add(dato);
+
             if (string.IsNullOrEmpty(dato))
             {
                 return false;

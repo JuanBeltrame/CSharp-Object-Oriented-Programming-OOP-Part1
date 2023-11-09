@@ -46,25 +46,25 @@ void LibraryExample02005()
     
     Console.ForegroundColor = ConsoleColor.DarkRed;
     string patenteIngresada = Console.ReadLine()!;
-    bool datoEsValido = Validadora.ValidarString(patenteIngresada, 6);
+    bool datoEsValido = Validadora.ValidarString(patenteIngresada, 5);
 
     while (!datoEsValido)
     {
         Console.WriteLine("Reingresar Patente");
         patenteIngresada = Console.ReadLine()!;
-        datoEsValido = Validadora.ValidarString(patenteIngresada, 6);
+        datoEsValido = Validadora.ValidarString(patenteIngresada, 5);
     }
     Console.WriteLine("");
 
     Console.WriteLine(patenteIngresada);
     string nombreDuenio = Console.ReadLine()!;
-    datoEsValido = Validadora.ValidarString(nombreDuenio, 3);
+    datoEsValido = Validadora.ValidarString(nombreDuenio, 2);
 
     while (!datoEsValido)
     {
-        Console.WriteLine("Reingresar Patente");
-        patenteIngresada = Console.ReadLine()!;
-        datoEsValido = Validadora.ValidarString(patenteIngresada, 6);
+        Console.WriteLine("Reingresar Nombre");
+        nombreDuenio = Console.ReadLine()!;
+        datoEsValido = Validadora.ValidarString(nombreDuenio, 5);
     }
     Console.WriteLine(nombreDuenio);
 
@@ -72,14 +72,14 @@ void LibraryExample02005()
 
 
 
-// Programa Principal
-LibraryExample02001();
-Console.WriteLine("");
+//----------------Programa Principal-------------------------------
+//LibraryExample02001();
+//Console.WriteLine("");
 
-LibraryExample02002();
-Console.WriteLine("");
+//LibraryExample02002();
+//Console.WriteLine("");
 
-LibraryExample0200304();
-Console.WriteLine("");
+//LibraryExample0200304();
+//Console.WriteLine("");
 
 LibraryExample02005();
