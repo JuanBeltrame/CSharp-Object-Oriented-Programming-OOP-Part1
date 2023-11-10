@@ -27,7 +27,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. Contenido de Sobrecarga
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "View for Overloads", "04. Contenido de Sobrecarga\View for Overloads\View for Overloads.csproj", "{17F52DDC-700D-418E-BEFC-384E58764A7C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00. Trabajando con Clases", "00. Trabajando con Clases", "{9FE9955D-8A10-4BFB-B9D3-425A806E2F93}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00 Trabajando con Clases", "00 Trabajando con Clases", "{9FE9955D-8A10-4BFB-B9D3-425A806E2F93}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console to work with StringBuilder", "00. Trabajando con Clases\Console to work with StringBuilder\Console to work with StringBuilder.csproj", "{1E83E257-0174-4479-A695-E7A7C486EC7D}"
 EndProject
@@ -41,11 +41,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library Example 02.0.05", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "View for Static Methods Examples", "02. Contenido de Metodos Estaticos\View for Static Methods Examples\View for Static Methods Examples.csproj", "{F0F2963E-5832-41B3-9368-BBAB70734FAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console to work with DateTime", "00. Trabajando con Clases\Console to work with DateTime\Console to work with DateTime.csproj", "{C68D325F-180A-4633-A53B-2F860E73984F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console to work with DateTime", "00. Trabajando con Clases\Console to work with DateTime\Console to work with DateTime.csproj", "{C68D325F-180A-4633-A53B-2F860E73984F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console to work with object", "00. Trabajando con Clases\Console to work with object\Console to work with object.csproj", "{66EEC084-37F0-4ED1-AA51-263DB756A0B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console to work with object", "00. Trabajando con Clases\Console to work with object\Console to work with object.csproj", "{66EEC084-37F0-4ED1-AA51-263DB756A0B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console to work with dynamic", "00. Trabajando con Clases\Console to work with dynamic\Console to work with dynamic.csproj", "{DB8B18FD-6A6F-4E14-9B54-E412A1BDAFA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console to work with dynamic", "00. Trabajando con Clases\Console to work with dynamic\Console to work with dynamic.csproj", "{DB8B18FD-6A6F-4E14-9B54-E412A1BDAFA7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -142,6 +142,7 @@ Global
 		{F0F2963E-5832-41B3-9368-BBAB70734FAD} = {42A8DC95-1F9C-47B3-BEB7-3B3668B9F10A}
 		{C68D325F-180A-4633-A53B-2F860E73984F} = {9FE9955D-8A10-4BFB-B9D3-425A806E2F93}
 		{66EEC084-37F0-4ED1-AA51-263DB756A0B3} = {9FE9955D-8A10-4BFB-B9D3-425A806E2F93}
+		{DB8B18FD-6A6F-4E14-9B54-E412A1BDAFA7} = {9FE9955D-8A10-4BFB-B9D3-425A806E2F93}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A1F3F4B6-A57C-4615-A1A2-916E35880697}
