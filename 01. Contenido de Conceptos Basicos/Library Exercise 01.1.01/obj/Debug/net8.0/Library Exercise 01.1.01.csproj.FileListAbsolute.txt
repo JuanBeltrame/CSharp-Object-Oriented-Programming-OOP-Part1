@@ -1,0 +1,12 @@
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\Library Exercise 01.1.01\bin\Debug\net8.0\Library Exercise 01.1.01.deps.json
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\Library Exercise 01.1.01\bin\Debug\net8.0\Library Exercise 01.1.01.dll
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\Library Exercise 01.1.01\bin\Debug\net8.0\Library Exercise 01.1.01.pdb
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\Library Exercise 01.1.01\obj\Debug\net8.0\Library Exercise 01.1.01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\Library Exercise 01.1.01\obj\Debug\net8.0\Library Exercise 01.1.01.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\Library Exercise 01.1.01\obj\Debug\net8.0\Library Exercise 01.1.01.AssemblyInfo.cs
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\Library Exercise 01.1.01\obj\Debug\net8.0\Library Exercise 01.1.01.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\Library Exercise 01.1.01\obj\Debug\net8.0\Library Exercise 01.1.01.sourcelink.json
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\Library Exercise 01.1.01\obj\Debug\net8.0\Library Exercise 01.1.01.dll
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\Library Exercise 01.1.01\obj\Debug\net8.0\refint\Library Exercise 01.1.01.dll
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\Library Exercise 01.1.01\obj\Debug\net8.0\Library Exercise 01.1.01.pdb
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\01. Contenido de Conceptos Basicos\Library Exercise 01.1.01\obj\Debug\net8.0\ref\Library Exercise 01.1.01.dll

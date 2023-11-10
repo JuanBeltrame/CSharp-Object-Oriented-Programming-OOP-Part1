@@ -1,0 +1,15 @@
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with Strings\bin\Debug\net8.0\Console to work with Strings.exe
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with Strings\bin\Debug\net8.0\Console to work with Strings.deps.json
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with Strings\bin\Debug\net8.0\Console to work with Strings.runtimeconfig.json
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with Strings\bin\Debug\net8.0\Console to work with Strings.dll
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with Strings\bin\Debug\net8.0\Console to work with Strings.pdb
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with Strings\obj\Debug\net8.0\Console to work with Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with Strings\obj\Debug\net8.0\Console to work with Strings.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with Strings\obj\Debug\net8.0\Console to work with Strings.AssemblyInfo.cs
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with Strings\obj\Debug\net8.0\Console to work with Strings.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with Strings\obj\Debug\net8.0\Console to work with Strings.sourcelink.json
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with Strings\obj\Debug\net8.0\Console to work with Strings.dll
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with Strings\obj\Debug\net8.0\refint\Console to work with Strings.dll
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with Strings\obj\Debug\net8.0\Console to work with Strings.pdb
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with Strings\obj\Debug\net8.0\Console to work with Strings.genruntimeconfig.cache
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with Strings\obj\Debug\net8.0\ref\Console to work with Strings.dll

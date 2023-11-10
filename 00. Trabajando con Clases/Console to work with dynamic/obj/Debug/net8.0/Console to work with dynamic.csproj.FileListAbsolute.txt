@@ -1,0 +1,15 @@
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with dynamic\bin\Debug\net8.0\Console to work with dynamic.exe
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with dynamic\bin\Debug\net8.0\Console to work with dynamic.deps.json
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with dynamic\bin\Debug\net8.0\Console to work with dynamic.runtimeconfig.json
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with dynamic\bin\Debug\net8.0\Console to work with dynamic.dll
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with dynamic\bin\Debug\net8.0\Console to work with dynamic.pdb
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with dynamic\obj\Debug\net8.0\Console to work with dynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with dynamic\obj\Debug\net8.0\Console to work with dynamic.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with dynamic\obj\Debug\net8.0\Console to work with dynamic.AssemblyInfo.cs
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with dynamic\obj\Debug\net8.0\Console to work with dynamic.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with dynamic\obj\Debug\net8.0\Console to work with dynamic.sourcelink.json
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with dynamic\obj\Debug\net8.0\Console to work with dynamic.dll
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with dynamic\obj\Debug\net8.0\refint\Console to work with dynamic.dll
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with dynamic\obj\Debug\net8.0\Console to work with dynamic.pdb
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with dynamic\obj\Debug\net8.0\Console to work with dynamic.genruntimeconfig.cache
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with dynamic\obj\Debug\net8.0\ref\Console to work with dynamic.dll

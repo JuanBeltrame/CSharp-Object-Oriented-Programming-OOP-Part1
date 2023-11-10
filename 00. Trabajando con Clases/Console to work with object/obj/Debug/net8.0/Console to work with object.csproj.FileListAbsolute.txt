@@ -1,0 +1,15 @@
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with object\bin\Debug\net8.0\Console to work with object.exe
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with object\bin\Debug\net8.0\Console to work with object.deps.json
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with object\bin\Debug\net8.0\Console to work with object.runtimeconfig.json
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with object\bin\Debug\net8.0\Console to work with object.dll
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with object\bin\Debug\net8.0\Console to work with object.pdb
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with object\obj\Debug\net8.0\Console to work with object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with object\obj\Debug\net8.0\Console to work with object.AssemblyInfoInputs.cache
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with object\obj\Debug\net8.0\Console to work with object.AssemblyInfo.cs
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with object\obj\Debug\net8.0\Console to work with object.csproj.CoreCompileInputs.cache
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with object\obj\Debug\net8.0\Console to work with object.sourcelink.json
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with object\obj\Debug\net8.0\Console to work with object.dll
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with object\obj\Debug\net8.0\refint\Console to work with object.dll
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with object\obj\Debug\net8.0\Console to work with object.pdb
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with object\obj\Debug\net8.0\Console to work with object.genruntimeconfig.cache
+C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with object\obj\Debug\net8.0\ref\Console to work with object.dll
