@@ -8,23 +8,26 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\juan_\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\jbeltrame\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.03\\Library Example 02.0.03.csproj",
+      "projectUniqueName": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.03\\Library Example 02.0.03.csproj",
       "projectName": "Library Example 02.0.03",
-      "projectPath": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.03\\Library Example 02.0.03.csproj",
-      "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.03\\obj\\",
+      "projectPath": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.03\\Library Example 02.0.03.csproj",
+      "packagesPath": "C:\\Users\\jbeltrame\\.nuget\\packages\\",
+      "outputPath": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.03\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\juan_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jbeltrame\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -32,6 +35,7 @@
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
@@ -67,7 +71,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
