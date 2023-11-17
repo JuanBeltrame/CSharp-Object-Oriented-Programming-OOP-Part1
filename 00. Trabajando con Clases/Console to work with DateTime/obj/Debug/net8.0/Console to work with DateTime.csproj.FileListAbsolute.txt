@@ -13,3 +13,18 @@ C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-
 C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with DateTime\obj\Debug\net8.0\Console to work with DateTime.pdb
 C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with DateTime\obj\Debug\net8.0\Console to work with DateTime.genruntimeconfig.cache
 C:\Users\juan_\Documents\GitHub repositories\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with DateTime\obj\Debug\net8.0\ref\Console to work with DateTime.dll
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with DateTime\bin\Debug\net8.0\Console to work with DateTime.exe
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with DateTime\bin\Debug\net8.0\Console to work with DateTime.deps.json
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with DateTime\bin\Debug\net8.0\Console to work with DateTime.runtimeconfig.json
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with DateTime\bin\Debug\net8.0\Console to work with DateTime.dll
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with DateTime\bin\Debug\net8.0\Console to work with DateTime.pdb
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with DateTime\obj\Debug\net8.0\Console to work with DateTime.GeneratedMSBuildEditorConfig.editorconfig
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with DateTime\obj\Debug\net8.0\Console to work with DateTime.AssemblyInfoInputs.cache
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with DateTime\obj\Debug\net8.0\Console to work with DateTime.AssemblyInfo.cs
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with DateTime\obj\Debug\net8.0\Console to work with DateTime.csproj.CoreCompileInputs.cache
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with DateTime\obj\Debug\net8.0\Console to work with DateTime.sourcelink.json
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with DateTime\obj\Debug\net8.0\Console to work with DateTime.dll
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with DateTime\obj\Debug\net8.0\refint\Console to work with DateTime.dll
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with DateTime\obj\Debug\net8.0\Console to work with DateTime.pdb
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with DateTime\obj\Debug\net8.0\Console to work with DateTime.genruntimeconfig.cache
+E:\JuanB (Disco E)\CSharp-Object-Oriented-Programming-OOP\00. Trabajando con Clases\Console to work with DateTime\obj\Debug\net8.0\ref\Console to work with DateTime.dll

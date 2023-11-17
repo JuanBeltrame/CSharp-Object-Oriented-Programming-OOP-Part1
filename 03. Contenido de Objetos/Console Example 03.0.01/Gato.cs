@@ -18,7 +18,7 @@ namespace Console_Example_03._0._01
             this.fechaNacimiento = fechaNacimiento;
         }
 
-        public void AsignarNombreOpcion1(string nombre)
+        public void SetNombreOpcion1(string nombre)
         {
             if (nombre is null)
             {
@@ -30,7 +30,7 @@ namespace Console_Example_03._0._01
             }
         }
 
-        public void AsignarNombreOpcion2(string nombre)
+        public void SetNombreOpcion2(string nombre)
         {
             nombre = " ";
             
@@ -60,7 +60,27 @@ namespace Console_Example_03._0._01
             StringBuilder sb = new StringBuilder();
             sb.AppendLine("Datos del Gato: ");
             sb.AppendFormat("Nombre del Gato: {0} ", nombre);
-            return 
+
+            if (nombre is not null)
+            {
+                sb.AppendLine($"Nombre : {nombre.ToUpper()}");
+            }
+            else
+            {
+                sb.AppendLine("Sin nombre");
+            }
+
+
+            // Strings Interpolados: es con el signo pesos adelante
+            sb.Append($"Fecha de naciemnto: {fechaNacimiento.ToString("dd/MM/yyyy")}");
+            sb.AppendLine($" Peso: {peso}");
+            return sb.ToString();
+            
+        }
+
+        public double GetPeso()
+        {
+            return peso;
         }
     }
 }
