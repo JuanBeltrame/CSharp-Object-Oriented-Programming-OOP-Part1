@@ -47,6 +47,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console to work with object
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console to work with dynamic", "00. Trabajando con Clases\Console to work with dynamic\Console to work with dynamic.csproj", "{DB8B18FD-6A6F-4E14-9B54-E412A1BDAFA7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console Example 03.0.01", "03. Contenido de Objetos\Console Example 03.0.01\Console Example 03.0.01.csproj", "{FFC5D18E-6EC5-4A83-A5FD-A7310DD258FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -121,6 +123,10 @@ Global
 		{DB8B18FD-6A6F-4E14-9B54-E412A1BDAFA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB8B18FD-6A6F-4E14-9B54-E412A1BDAFA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB8B18FD-6A6F-4E14-9B54-E412A1BDAFA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFC5D18E-6EC5-4A83-A5FD-A7310DD258FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFC5D18E-6EC5-4A83-A5FD-A7310DD258FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFC5D18E-6EC5-4A83-A5FD-A7310DD258FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFC5D18E-6EC5-4A83-A5FD-A7310DD258FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -143,6 +149,7 @@ Global
 		{C68D325F-180A-4633-A53B-2F860E73984F} = {9FE9955D-8A10-4BFB-B9D3-425A806E2F93}
 		{66EEC084-37F0-4ED1-AA51-263DB756A0B3} = {9FE9955D-8A10-4BFB-B9D3-425A806E2F93}
 		{DB8B18FD-6A6F-4E14-9B54-E412A1BDAFA7} = {9FE9955D-8A10-4BFB-B9D3-425A806E2F93}
+		{FFC5D18E-6EC5-4A83-A5FD-A7310DD258FA} = {E0291246-719F-4258-9E4F-CA69098E95A5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A1F3F4B6-A57C-4615-A1A2-916E35880697}
