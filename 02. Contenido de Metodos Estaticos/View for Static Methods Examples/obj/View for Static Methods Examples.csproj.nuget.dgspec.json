@@ -1,25 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\View for Static Methods Examples\\View for Static Methods Examples.csproj": {}
+    "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\View for Static Methods Examples\\View for Static Methods Examples.csproj": {}
   },
   "projects": {
-    "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.01\\Library Example 02.0.01.csproj": {
+    "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.01\\Library Example 02.0.01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.01\\Library Example 02.0.01.csproj",
+        "projectUniqueName": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.01\\Library Example 02.0.01.csproj",
         "projectName": "Library Example 02.0.01",
-        "projectPath": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.01\\Library Example 02.0.01.csproj",
-        "packagesPath": "C:\\Users\\jbeltrame\\.nuget\\packages\\",
-        "outputPath": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.01\\obj\\",
+        "projectPath": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.01\\Library Example 02.0.01.csproj",
+        "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jbeltrame\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Users\\juan_\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,7 +25,6 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
@@ -67,22 +64,20 @@
         }
       }
     },
-    "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.02\\Library Example 02.0.02.csproj": {
+    "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.02\\Library Example 02.0.02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.02\\Library Example 02.0.02.csproj",
+        "projectUniqueName": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.02\\Library Example 02.0.02.csproj",
         "projectName": "Library Example 02.0.02",
-        "projectPath": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.02\\Library Example 02.0.02.csproj",
-        "packagesPath": "C:\\Users\\jbeltrame\\.nuget\\packages\\",
-        "outputPath": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.02\\obj\\",
+        "projectPath": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.02\\Library Example 02.0.02.csproj",
+        "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.02\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jbeltrame\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Users\\juan_\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -90,7 +85,6 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
@@ -130,22 +124,20 @@
         }
       }
     },
-    "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.03\\Library Example 02.0.03.csproj": {
+    "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.03\\Library Example 02.0.03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.03\\Library Example 02.0.03.csproj",
+        "projectUniqueName": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.03\\Library Example 02.0.03.csproj",
         "projectName": "Library Example 02.0.03",
-        "projectPath": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.03\\Library Example 02.0.03.csproj",
-        "packagesPath": "C:\\Users\\jbeltrame\\.nuget\\packages\\",
-        "outputPath": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.03\\obj\\",
+        "projectPath": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.03\\Library Example 02.0.03.csproj",
+        "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.03\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jbeltrame\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Users\\juan_\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -153,7 +145,6 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
@@ -193,22 +184,20 @@
         }
       }
     },
-    "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.04\\Library Example 02.0.04.csproj": {
+    "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.04\\Library Example 02.0.04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.04\\Library Example 02.0.04.csproj",
+        "projectUniqueName": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.04\\Library Example 02.0.04.csproj",
         "projectName": "Library Example 02.0.04",
-        "projectPath": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.04\\Library Example 02.0.04.csproj",
-        "packagesPath": "C:\\Users\\jbeltrame\\.nuget\\packages\\",
-        "outputPath": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.04\\obj\\",
+        "projectPath": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.04\\Library Example 02.0.04.csproj",
+        "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.04\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jbeltrame\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Users\\juan_\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -216,7 +205,6 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
@@ -256,22 +244,20 @@
         }
       }
     },
-    "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.05\\Library Example 02.0.05.csproj": {
+    "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.05\\Library Example 02.0.05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.05\\Library Example 02.0.05.csproj",
+        "projectUniqueName": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.05\\Library Example 02.0.05.csproj",
         "projectName": "Library Example 02.0.05",
-        "projectPath": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.05\\Library Example 02.0.05.csproj",
-        "packagesPath": "C:\\Users\\jbeltrame\\.nuget\\packages\\",
-        "outputPath": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.05\\obj\\",
+        "projectPath": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.05\\Library Example 02.0.05.csproj",
+        "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.05\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jbeltrame\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Users\\juan_\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -279,7 +265,6 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
@@ -319,22 +304,20 @@
         }
       }
     },
-    "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\View for Static Methods Examples\\View for Static Methods Examples.csproj": {
+    "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\View for Static Methods Examples\\View for Static Methods Examples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\View for Static Methods Examples\\View for Static Methods Examples.csproj",
+        "projectUniqueName": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\View for Static Methods Examples\\View for Static Methods Examples.csproj",
         "projectName": "View for Static Methods Examples",
-        "projectPath": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\View for Static Methods Examples\\View for Static Methods Examples.csproj",
-        "packagesPath": "C:\\Users\\jbeltrame\\.nuget\\packages\\",
-        "outputPath": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\View for Static Methods Examples\\obj\\",
+        "projectPath": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\View for Static Methods Examples\\View for Static Methods Examples.csproj",
+        "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\View for Static Methods Examples\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jbeltrame\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Users\\juan_\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -342,7 +325,6 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
@@ -351,20 +333,20 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.01\\Library Example 02.0.01.csproj": {
-                "projectPath": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.01\\Library Example 02.0.01.csproj"
+              "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.01\\Library Example 02.0.01.csproj": {
+                "projectPath": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.01\\Library Example 02.0.01.csproj"
               },
-              "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.02\\Library Example 02.0.02.csproj": {
-                "projectPath": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.02\\Library Example 02.0.02.csproj"
+              "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.02\\Library Example 02.0.02.csproj": {
+                "projectPath": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.02\\Library Example 02.0.02.csproj"
               },
-              "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.03\\Library Example 02.0.03.csproj": {
-                "projectPath": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.03\\Library Example 02.0.03.csproj"
+              "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.03\\Library Example 02.0.03.csproj": {
+                "projectPath": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.03\\Library Example 02.0.03.csproj"
               },
-              "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.04\\Library Example 02.0.04.csproj": {
-                "projectPath": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.04\\Library Example 02.0.04.csproj"
+              "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.04\\Library Example 02.0.04.csproj": {
+                "projectPath": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.04\\Library Example 02.0.04.csproj"
               },
-              "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.05\\Library Example 02.0.05.csproj": {
-                "projectPath": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.05\\Library Example 02.0.05.csproj"
+              "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.05\\Library Example 02.0.05.csproj": {
+                "projectPath": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\02. Contenido de Metodos Estaticos\\Library Example 02.0.05\\Library Example 02.0.05.csproj"
               }
             }
           }

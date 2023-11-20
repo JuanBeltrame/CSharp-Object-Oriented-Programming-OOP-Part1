@@ -1,25 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\00. Trabajando con Clases\\Console to work with StringBuilder\\Console to work with StringBuilder.csproj": {}
+    "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\00. Trabajando con Clases\\Console to work with StringBuilder\\Console to work with StringBuilder.csproj": {}
   },
   "projects": {
-    "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\00. Trabajando con Clases\\Console to work with StringBuilder\\Console to work with StringBuilder.csproj": {
+    "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\00. Trabajando con Clases\\Console to work with StringBuilder\\Console to work with StringBuilder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\00. Trabajando con Clases\\Console to work with StringBuilder\\Console to work with StringBuilder.csproj",
+        "projectUniqueName": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\00. Trabajando con Clases\\Console to work with StringBuilder\\Console to work with StringBuilder.csproj",
         "projectName": "Console to work with StringBuilder",
-        "projectPath": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\00. Trabajando con Clases\\Console to work with StringBuilder\\Console to work with StringBuilder.csproj",
-        "packagesPath": "C:\\Users\\jbeltrame\\.nuget\\packages\\",
-        "outputPath": "E:\\JuanB (Disco E)\\CSharp-Object-Oriented-Programming-OOP\\00. Trabajando con Clases\\Console to work with StringBuilder\\obj\\",
+        "projectPath": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\00. Trabajando con Clases\\Console to work with StringBuilder\\Console to work with StringBuilder.csproj",
+        "packagesPath": "C:\\Users\\juan_\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juan_\\Documents\\GitHub repositories\\CSharp-Object-Oriented-Programming-OOP\\00. Trabajando con Clases\\Console to work with StringBuilder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jbeltrame\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Users\\juan_\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,7 +25,6 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
