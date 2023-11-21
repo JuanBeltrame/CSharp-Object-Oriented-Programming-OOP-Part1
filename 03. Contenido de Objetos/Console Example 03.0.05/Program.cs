@@ -4,6 +4,6 @@ Automovil auto1;
 
 auto1 = new Automovil("asd123", 2023);
 
-auto1.
+auto1.TrabarPuertas();
 
 Console.WriteLine(auto1);
