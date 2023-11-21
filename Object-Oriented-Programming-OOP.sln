@@ -49,15 +49,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console to work with dynami
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console Example 03.0.01", "03. Contenido de Objetos\Console Example 03.0.01\Console Example 03.0.01.csproj", "{FFC5D18E-6EC5-4A83-A5FD-A7310DD258FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console Example 03.0.02", "03. Contenido de Objetos\Console Example 03.0.02\Console Example 03.0.02.csproj", "{FD05EBA1-108D-4526-B5E2-D88F9256F339}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console Example 03.0.02", "03. Contenido de Objetos\Console Example 03.0.02\Console Example 03.0.02.csproj", "{FD05EBA1-108D-4526-B5E2-D88F9256F339}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console Example 03.0.03", "03. Contenido de Objetos\Console Example 03.0.03\Console Example 03.0.03.csproj", "{D5153EC9-6D63-4BB4-AD35-AB819A9E5213}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console Example 03.0.03", "03. Contenido de Objetos\Console Example 03.0.03\Console Example 03.0.03.csproj", "{D5153EC9-6D63-4BB4-AD35-AB819A9E5213}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console to work with TimeSpan", "00. Trabajando con Clases\Console to work with TimeSpan\Console to work with TimeSpan.csproj", "{00F73FE0-4979-4D27-97FE-4CE23D50D71C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console to work with TimeSpan", "00. Trabajando con Clases\Console to work with TimeSpan\Console to work with TimeSpan.csproj", "{00F73FE0-4979-4D27-97FE-4CE23D50D71C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console Example 03.0.04", "03. Contenido de Objetos\Console Example 03.0.04\Console Example 03.0.04.csproj", "{10456013-7D8B-4032-96BC-AF0FB6D06226}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console Example 03.0.04", "03. Contenido de Objetos\Console Example 03.0.04\Console Example 03.0.04.csproj", "{10456013-7D8B-4032-96BC-AF0FB6D06226}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console Example 03.0.05", "03. Contenido de Objetos\Console Example 03.0.05\Console Example 03.0.05.csproj", "{D5C852F1-0120-43CB-8885-786B6E6F8F9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console Example 03.0.05", "03. Contenido de Objetos\Console Example 03.0.05\Console Example 03.0.05.csproj", "{D5C852F1-0120-43CB-8885-786B6E6F8F9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method Overloading Examples", "04. Contenido de Sobrecarga\Method Overloading Examples\Method Overloading Examples.csproj", "{BD81EF84-9965-4971-9A4E-82929077B47A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor Overloading Examples", "04. Contenido de Sobrecarga\Constructor Overloading Examples\Constructor Overloading Examples.csproj", "{A5D215C5-4B70-4C1F-8AC6-76B2A3CE350B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operator Overloading Examples", "04. Contenido de Sobrecarga\Operator Overloading Examples\Operator Overloading Examples.csproj", "{54E3A6BD-6778-469C-8EDC-BEBFC5BE58BA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -157,6 +163,18 @@ Global
 		{D5C852F1-0120-43CB-8885-786B6E6F8F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5C852F1-0120-43CB-8885-786B6E6F8F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5C852F1-0120-43CB-8885-786B6E6F8F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD81EF84-9965-4971-9A4E-82929077B47A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD81EF84-9965-4971-9A4E-82929077B47A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD81EF84-9965-4971-9A4E-82929077B47A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD81EF84-9965-4971-9A4E-82929077B47A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5D215C5-4B70-4C1F-8AC6-76B2A3CE350B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5D215C5-4B70-4C1F-8AC6-76B2A3CE350B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5D215C5-4B70-4C1F-8AC6-76B2A3CE350B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5D215C5-4B70-4C1F-8AC6-76B2A3CE350B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54E3A6BD-6778-469C-8EDC-BEBFC5BE58BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54E3A6BD-6778-469C-8EDC-BEBFC5BE58BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54E3A6BD-6778-469C-8EDC-BEBFC5BE58BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54E3A6BD-6778-469C-8EDC-BEBFC5BE58BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -185,6 +203,9 @@ Global
 		{00F73FE0-4979-4D27-97FE-4CE23D50D71C} = {9FE9955D-8A10-4BFB-B9D3-425A806E2F93}
 		{10456013-7D8B-4032-96BC-AF0FB6D06226} = {E0291246-719F-4258-9E4F-CA69098E95A5}
 		{D5C852F1-0120-43CB-8885-786B6E6F8F9C} = {E0291246-719F-4258-9E4F-CA69098E95A5}
+		{BD81EF84-9965-4971-9A4E-82929077B47A} = {1228412C-AF0E-4B95-B1E0-FB782649AF4E}
+		{A5D215C5-4B70-4C1F-8AC6-76B2A3CE350B} = {1228412C-AF0E-4B95-B1E0-FB782649AF4E}
+		{54E3A6BD-6778-469C-8EDC-BEBFC5BE58BA} = {1228412C-AF0E-4B95-B1E0-FB782649AF4E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A1F3F4B6-A57C-4615-A1A2-916E35880697}
