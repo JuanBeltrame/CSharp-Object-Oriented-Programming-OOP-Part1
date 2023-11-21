@@ -4,6 +4,6 @@ Automovil auto1;
 
 auto1 = new Automovil("asd123", 2023);
 
-auto1.Encender();
+auto1.
 
 Console.WriteLine(auto1);
