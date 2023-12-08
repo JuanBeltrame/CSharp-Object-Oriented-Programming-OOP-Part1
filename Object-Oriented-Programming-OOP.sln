@@ -59,11 +59,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console Example 03.0.04", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console Example 03.0.05", "03. Contenido de Objetos\Console Example 03.0.05\Console Example 03.0.05.csproj", "{D5C852F1-0120-43CB-8885-786B6E6F8F9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method Overloading Examples", "04. Contenido de Sobrecarga\Method Overloading Examples\Method Overloading Examples.csproj", "{BD81EF84-9965-4971-9A4E-82929077B47A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Method Overloading Examples", "04. Contenido de Sobrecarga\Method Overloading Examples\Method Overloading Examples.csproj", "{BD81EF84-9965-4971-9A4E-82929077B47A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor Overloading Examples", "04. Contenido de Sobrecarga\Constructor Overloading Examples\Constructor Overloading Examples.csproj", "{A5D215C5-4B70-4C1F-8AC6-76B2A3CE350B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructor Overloading Examples", "04. Contenido de Sobrecarga\Constructor Overloading Examples\Constructor Overloading Examples.csproj", "{A5D215C5-4B70-4C1F-8AC6-76B2A3CE350B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operator Overloading Examples", "04. Contenido de Sobrecarga\Operator Overloading Examples\Operator Overloading Examples.csproj", "{54E3A6BD-6778-469C-8EDC-BEBFC5BE58BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operator Overloading Examples", "04. Contenido de Sobrecarga\Operator Overloading Examples\Operator Overloading Examples.csproj", "{54E3A6BD-6778-469C-8EDC-BEBFC5BE58BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console to work with Random", "00. Trabajando con Clases\Console to work with Random\Console to work with Random.csproj", "{2966535D-F723-4B4E-B513-83AF013C4A24}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -175,6 +177,10 @@ Global
 		{54E3A6BD-6778-469C-8EDC-BEBFC5BE58BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54E3A6BD-6778-469C-8EDC-BEBFC5BE58BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54E3A6BD-6778-469C-8EDC-BEBFC5BE58BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2966535D-F723-4B4E-B513-83AF013C4A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2966535D-F723-4B4E-B513-83AF013C4A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2966535D-F723-4B4E-B513-83AF013C4A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2966535D-F723-4B4E-B513-83AF013C4A24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -206,6 +212,7 @@ Global
 		{BD81EF84-9965-4971-9A4E-82929077B47A} = {1228412C-AF0E-4B95-B1E0-FB782649AF4E}
 		{A5D215C5-4B70-4C1F-8AC6-76B2A3CE350B} = {1228412C-AF0E-4B95-B1E0-FB782649AF4E}
 		{54E3A6BD-6778-469C-8EDC-BEBFC5BE58BA} = {1228412C-AF0E-4B95-B1E0-FB782649AF4E}
+		{2966535D-F723-4B4E-B513-83AF013C4A24} = {9FE9955D-8A10-4BFB-B9D3-425A806E2F93}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A1F3F4B6-A57C-4615-A1A2-916E35880697}
