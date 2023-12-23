@@ -13,9 +13,6 @@ caso contrario, mostrar el mensaje: "ERROR. ¡Reingresar número!".
 */
 
 //------------Programa Principal-------------
-using System;
-using static System.Runtime.InteropServices.JavaScript.JSType;
-
 
 double number;
 char desicion;
