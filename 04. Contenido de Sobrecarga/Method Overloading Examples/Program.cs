@@ -1,5 +1,6 @@
 ﻿using Method_Overloading_Examples;
 
+//-----------Ejemplo 01--------------------------------
 int resultado01 = Calculadora.Sumar(1, 2, 3, 4);
 Console.WriteLine(resultado01);
 
@@ -15,3 +16,13 @@ Console.WriteLine(resultado04);
 string? mensaje =default;
 Calculadora.Sumar(ref mensaje!, 2);
 Console.WriteLine(mensaje);
+
+//-----------Ejemplo 02--------------------------------
+int resultado05 = Sobrecargadora.Sumar(5, 8);
+Console.WriteLine(resultado05);
+
+int resultado06 = Sobrecargadora.Sumar(5, 8, 10);
+Console.WriteLine(resultado06);
+
+Console.WriteLine(Sobrecargadora.Concatenar("Hola","Mundo"));
+Console.WriteLine(Sobrecargadora.Concatenar("Hola","Mundo", 12));
