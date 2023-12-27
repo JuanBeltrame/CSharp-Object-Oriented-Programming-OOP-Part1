@@ -26,3 +26,9 @@ Console.WriteLine(resultado06);
 
 Console.WriteLine(Sobrecargadora.Concatenar("Hola","Mundo"));
 Console.WriteLine(Sobrecargadora.Concatenar("Hola","Mundo", 12));
+
+
+//-----------Ejemplo 03--------------------------------
+Validador.ValidarRango(4, 0, 10);
+Validador.ValidarRango(4.5f, 0.1f, 10.12f);
+Validador.ValidarRango("Hola", 1, 10);
