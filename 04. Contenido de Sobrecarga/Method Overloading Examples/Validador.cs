@@ -8,6 +8,17 @@ namespace Method_Overloading_Examples
 {
     internal class Validador
     {
+        // Sobrecarga con distinta cantidad de parametros
+        public static bool ValidarRango(string valor, int max)
+        {
+            return valor.Length >= max;
+        }
+
+        public static bool ValidarRango(string valor, int min, int max)
+        {
+            return valor.Length >= max;
+        }
+
         // Sobrecarga con distinto tipo de parametros
         public static bool ValidarRango(int valor, int min, int max)
         {
@@ -22,6 +33,9 @@ namespace Method_Overloading_Examples
             return valor.Length >= min && valor.Length <= max;
         }
 
+        
+
+        // Sobrecarga con distinto orden de parametros
 
 
 
