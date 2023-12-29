@@ -11,10 +11,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Contenido de Metodos Es
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "View for Basic Concepts", "01. Contenido de Conceptos Basicos\View for Basic Concepts\View for Basic Concepts.csproj", "{91D9CC05-D1C7-4E4A-B292-DD0927248D75}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library Exercise 01.1.01", "01. Contenido de Conceptos Basicos\Library Exercise 01.1.01\Library Exercise 01.1.01.csproj", "{5F5CC46C-A865-4F99-AF92-5B152D6ABD4F}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library Exercise 01.1.02", "01. Contenido de Conceptos Basicos\Library Exercise 01.1.02\Library Exercise 01.1.02.csproj", "{6DAAB085-0BAC-4CF0-A8C1-080C8C619C59}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library Exercise 01.1.03", "01. Contenido de Conceptos Basicos\Library Exercise 01.1.03\Library Exercise 01.1.03.csproj", "{197C01DA-9167-43B6-A0A9-D0054BD3153E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library Example 02.0.01", "02. Contenido de Metodos Estaticos\Library Example 02.0.01\Library Example 02.0.01.csproj", "{2944DB7E-80D6-49D1-B715-86893CCEE299}"
@@ -67,9 +63,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console to work with Random
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console to work with Math", "00. Trabajando con Clases\Console to work with Math\Console to work with Math.csproj", "{1640B1AE-DF0F-4257-A05D-FF7730662DD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sobrecarga (Exercise 01) (Library)", "04. Contenido de Sobrecarga\Sobrecarga (Exercise 01) (Library)\Sobrecarga (Exercise 01) (Library).csproj", "{B2EF155C-A9DD-491C-95C5-D70D4A7273C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sobrecarga (Exercise 01) (Library)", "04. Contenido de Sobrecarga\Sobrecarga (Exercise 01) (Library)\Sobrecarga (Exercise 01) (Library).csproj", "{B2EF155C-A9DD-491C-95C5-D70D4A7273C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sobrecarga (Exercise 01) (View)", "04. Contenido de Sobrecarga\Sobrecarga (Exercise 01) (View)\Sobrecarga (Exercise 01) (View).csproj", "{4DABF0BC-6258-42C3-A229-8607D3847472}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sobrecarga (Exercise 01) (View)", "04. Contenido de Sobrecarga\Sobrecarga (Exercise 01) (View)\Sobrecarga (Exercise 01) (View).csproj", "{4DABF0BC-6258-42C3-A229-8607D3847472}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,14 +77,6 @@ Global
 		{91D9CC05-D1C7-4E4A-B292-DD0927248D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91D9CC05-D1C7-4E4A-B292-DD0927248D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91D9CC05-D1C7-4E4A-B292-DD0927248D75}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5F5CC46C-A865-4F99-AF92-5B152D6ABD4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5F5CC46C-A865-4F99-AF92-5B152D6ABD4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5F5CC46C-A865-4F99-AF92-5B152D6ABD4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5F5CC46C-A865-4F99-AF92-5B152D6ABD4F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6DAAB085-0BAC-4CF0-A8C1-080C8C619C59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6DAAB085-0BAC-4CF0-A8C1-080C8C619C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6DAAB085-0BAC-4CF0-A8C1-080C8C619C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6DAAB085-0BAC-4CF0-A8C1-080C8C619C59}.Release|Any CPU.Build.0 = Release|Any CPU
 		{197C01DA-9167-43B6-A0A9-D0054BD3153E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{197C01DA-9167-43B6-A0A9-D0054BD3153E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{197C01DA-9167-43B6-A0A9-D0054BD3153E}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -199,8 +187,6 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{91D9CC05-D1C7-4E4A-B292-DD0927248D75} = {0544F13F-67CB-4760-B000-DF39839BCDB7}
-		{5F5CC46C-A865-4F99-AF92-5B152D6ABD4F} = {0544F13F-67CB-4760-B000-DF39839BCDB7}
-		{6DAAB085-0BAC-4CF0-A8C1-080C8C619C59} = {0544F13F-67CB-4760-B000-DF39839BCDB7}
 		{197C01DA-9167-43B6-A0A9-D0054BD3153E} = {0544F13F-67CB-4760-B000-DF39839BCDB7}
 		{2944DB7E-80D6-49D1-B715-86893CCEE299} = {42A8DC95-1F9C-47B3-BEB7-3B3668B9F10A}
 		{97E3EF68-E4F9-4782-B1A6-187F49EFB4EE} = {42A8DC95-1F9C-47B3-BEB7-3B3668B9F10A}
