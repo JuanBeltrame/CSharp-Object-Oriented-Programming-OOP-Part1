@@ -9,10 +9,10 @@ namespace Implicit_and_Explicit_Operators_Conversion_Examples
 {
     internal class Tiempo
     {
-        int hora;
-        int minutos;
-        int segundos;
-        string formato;
+        public int hora;
+        public int minutos;
+        public int segundos;
+        public string formato;
 
         public Tiempo() : this(0, 0, 0)
         {
@@ -44,6 +44,12 @@ namespace Implicit_and_Explicit_Operators_Conversion_Examples
         public static implicit operator int(Tiempo t)
         {
             return (((t.hora * 60) + t.minutos) * 60) + t.segundos;
+        }
+
+        public static explicit operator Tiempo(string t)
+        {
+            string[] tiempoStr = t.Split(':');
+            return new Tiempo(int.Parse(tiempoStr[0]), int.Parse(tiempoStr[1]), int.Parse(tiempoStr[2]));
         }
 
     }
