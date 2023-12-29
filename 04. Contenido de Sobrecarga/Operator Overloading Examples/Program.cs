@@ -23,3 +23,13 @@ aula += persona2;
 aula += persona3;
 aula += persona4;
 
+
+//----Ejemplo 03-----
+Ticket firsTicket = new Ticket(2);
+Ticket secondTicket = new Ticket(3);
+
+// Add the two tickets creating a third ticket object
+Ticket sumTicket = firsTicket + secondTicket;
+
+// Display the sum ticket duration in hours
+Console.WriteLine("The total duration in hours is: "+ sumTicket.DurationInHours);
