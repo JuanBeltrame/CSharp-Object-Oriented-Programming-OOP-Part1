@@ -65,9 +65,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sobrecarga (Exercise 01) (V
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Implicit and Explicit Operators Conversion Examples", "04. Contenido de Sobrecarga\Implicit and Explicit Operators Conversion Examples\Implicit and Explicit Operators Conversion Examples.csproj", "{3AE9ED82-69F0-42E7-BA8C-488D2FE8D068}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "01. Contenido de Conceptos Basicos\Operators\Operators.csproj", "{8632C119-199C-4279-8D2D-A102AF274D2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operators", "01. Contenido de Conceptos Basicos\Operators\Operators.csproj", "{8632C119-199C-4279-8D2D-A102AF274D2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nullables", "01. Contenido de Conceptos Basicos\Nullables\Nullables.csproj", "{7D5D24FB-F94C-419F-8538-0D73130DE446}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nullables", "01. Contenido de Conceptos Basicos\Nullables\Nullables.csproj", "{7D5D24FB-F94C-419F-8538-0D73130DE446}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naming Conventions", "01. Contenido de Conceptos Basicos\Naming Conventions\Naming Conventions.csproj", "{CBF33B57-2B82-463D-9F4C-C62000A7373B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryParse usage", "01. Contenido de Conceptos Basicos\TryParse usage\TryParse usage.csproj", "{A1395AB4-78FD-4064-80C2-C7D57327CB94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -187,6 +191,14 @@ Global
 		{7D5D24FB-F94C-419F-8538-0D73130DE446}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D5D24FB-F94C-419F-8538-0D73130DE446}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D5D24FB-F94C-419F-8538-0D73130DE446}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBF33B57-2B82-463D-9F4C-C62000A7373B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF33B57-2B82-463D-9F4C-C62000A7373B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF33B57-2B82-463D-9F4C-C62000A7373B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF33B57-2B82-463D-9F4C-C62000A7373B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1395AB4-78FD-4064-80C2-C7D57327CB94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1395AB4-78FD-4064-80C2-C7D57327CB94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1395AB4-78FD-4064-80C2-C7D57327CB94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1395AB4-78FD-4064-80C2-C7D57327CB94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -220,6 +232,8 @@ Global
 		{3AE9ED82-69F0-42E7-BA8C-488D2FE8D068} = {1228412C-AF0E-4B95-B1E0-FB782649AF4E}
 		{8632C119-199C-4279-8D2D-A102AF274D2D} = {0544F13F-67CB-4760-B000-DF39839BCDB7}
 		{7D5D24FB-F94C-419F-8538-0D73130DE446} = {0544F13F-67CB-4760-B000-DF39839BCDB7}
+		{CBF33B57-2B82-463D-9F4C-C62000A7373B} = {0544F13F-67CB-4760-B000-DF39839BCDB7}
+		{A1395AB4-78FD-4064-80C2-C7D57327CB94} = {0544F13F-67CB-4760-B000-DF39839BCDB7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A1F3F4B6-A57C-4615-A1A2-916E35880697}
