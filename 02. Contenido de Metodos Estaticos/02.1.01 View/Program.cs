@@ -2,7 +2,7 @@
 using System.Diagnostics;
 
 /* 
-Ejercicio I09 - Dibujando un triángulo equilátero - UTN Avellaneda
+Ejercicio I01 - Validador de rangos - UTN Avellaneda
 ----------------------------------------------------------------------
 English:
 Create a class called "Validator" that has a static method named "Validate" with the following signature:
