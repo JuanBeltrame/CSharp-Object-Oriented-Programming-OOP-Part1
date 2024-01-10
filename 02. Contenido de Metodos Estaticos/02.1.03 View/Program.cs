@@ -4,10 +4,10 @@ Ejercicio I03 - Conversor binario - UTN Avellaneda
 English:
 Create a class called Converter that has two (static) class methods:
 
-The method ConvertDecimalToBinary that converts an integer from the decimal system to the binary system.
+The method "ConvertDecimalToBinary" that converts an integer from the decimal system to the binary system.
 public string ConvertDecimalToBinary(int integerNumber) {}
 
-The ConvertBinaryADecimal method that converts an integer from the binary system to the decimal system.
+The "ConvertBinaryToDecimal" method that converts an integer from the binary system to the decimal system.
 public int ConvertBinaryToDecimal(int integerNumber) {}
 
 Do NOT use the language shortcuts, do it using iteration and selection structures.
