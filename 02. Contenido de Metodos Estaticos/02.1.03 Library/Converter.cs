@@ -24,6 +24,21 @@ namespace _02._1._03_Library
 
             return valorBinario;
         }
-        // Generamos el metodo de 
+
+        // Generamos el metodo de clase que convierte de Binario a Decimal
+        public static int BinaryToDecimal(string valorRecibido)
+        {
+            int resultado = 0; // Valor a retornar; lo inicializamos en cero dado que si la cadena recibida no corresponde a un binario, retornamos cero
+            int cantidadCaracteres = valorRecibido.Length; // Guardamos la longitud de la cadena para saber hasta donde tenemos que ir calculando. 
+            foreach(char caracter in valorRecibido)
+            {
+                cantidadCaracteres--;
+                if(caracter == '1')
+                {
+                    resultado += (int)Math.Pow(2, cantidadCaracteres);
+                }
+            }
+            return resultado;
+        }
     }
 }

@@ -27,3 +27,21 @@ NO utilizar los atajos del lenguaje, hacerlo mediante estructuras de iteración 
 */
 
 //--Programa Principal---
+
+using _02._1._03_Library;
+
+int ingresoDecimal;
+string ingresoBinario;
+string binario;
+int numeroDecimal;
+
+Console.WriteLine("Ingrese el numero Decimal: ");
+int.TryParse(Console.ReadLine(), out ingresoDecimal);
+binario  = Converter.DecimalToBinary(ingresoDecimal);
+Console.WriteLine($"El resultado Binario es: {binario}");
+
+Console.WriteLine("Ingrese el numero Binario: ");
+ingresoBinario = Console.ReadLine()!;
+numeroDecimal = Converter.BinaryToDecimal(ingresoBinario);
+Console.WriteLine($"El resultado en Decimal es: {numeroDecimal}");
+Console.ReadKey();
