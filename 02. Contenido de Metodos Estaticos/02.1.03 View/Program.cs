@@ -30,6 +30,9 @@ NO utilizar los atajos del lenguaje, hacerlo mediante estructuras de iteración 
 
 using _02._1._03_Library;
 
+Console.Title = "Ejercicio I03 - Conversor binario - UTN Avellaneda";
+Console.ForegroundColor = ConsoleColor.Yellow;
+
 int ingresoDecimal;
 string ingresoBinario;
 string binario;

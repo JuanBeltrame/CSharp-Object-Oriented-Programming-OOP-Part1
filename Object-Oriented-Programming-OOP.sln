@@ -81,9 +81,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.1.02 Library", "02. Cont
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.1.02 View", "02. Contenido de Metodos Estaticos\02.1.02 View\02.1.02 View.csproj", "{078008EE-8386-4C53-8031-155A27F14848}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.1.03 Library", "02. Contenido de Metodos Estaticos\02.1.03 Library\02.1.03 Library.csproj", "{AD322120-B018-4C07-A89D-958E9552C97C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.1.03 Library", "02. Contenido de Metodos Estaticos\02.1.03 Library\02.1.03 Library.csproj", "{AD322120-B018-4C07-A89D-958E9552C97C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.1.03 View", "02. Contenido de Metodos Estaticos\02.1.03 View\02.1.03 View.csproj", "{77BA8062-9620-4216-8DA9-9FFB9FE183B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.1.03 View", "02. Contenido de Metodos Estaticos\02.1.03 View\02.1.03 View.csproj", "{77BA8062-9620-4216-8DA9-9FFB9FE183B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.1.04 Library", "02. Contenido de Metodos Estaticos\02.1.04 Library\02.1.04 Library.csproj", "{F9BD3C6A-37BC-464B-8863-0D15ADA74DE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.1.04 View", "02. Contenido de Metodos Estaticos\02.1.04 View\02.1.04 View.csproj", "{98BF1718-AD7C-40DA-8B8A-5665080FB8CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -235,6 +239,14 @@ Global
 		{77BA8062-9620-4216-8DA9-9FFB9FE183B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77BA8062-9620-4216-8DA9-9FFB9FE183B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77BA8062-9620-4216-8DA9-9FFB9FE183B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9BD3C6A-37BC-464B-8863-0D15ADA74DE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9BD3C6A-37BC-464B-8863-0D15ADA74DE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9BD3C6A-37BC-464B-8863-0D15ADA74DE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9BD3C6A-37BC-464B-8863-0D15ADA74DE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98BF1718-AD7C-40DA-8B8A-5665080FB8CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98BF1718-AD7C-40DA-8B8A-5665080FB8CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98BF1718-AD7C-40DA-8B8A-5665080FB8CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98BF1718-AD7C-40DA-8B8A-5665080FB8CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -276,6 +288,8 @@ Global
 		{078008EE-8386-4C53-8031-155A27F14848} = {42A8DC95-1F9C-47B3-BEB7-3B3668B9F10A}
 		{AD322120-B018-4C07-A89D-958E9552C97C} = {42A8DC95-1F9C-47B3-BEB7-3B3668B9F10A}
 		{77BA8062-9620-4216-8DA9-9FFB9FE183B3} = {42A8DC95-1F9C-47B3-BEB7-3B3668B9F10A}
+		{F9BD3C6A-37BC-464B-8863-0D15ADA74DE8} = {42A8DC95-1F9C-47B3-BEB7-3B3668B9F10A}
+		{98BF1718-AD7C-40DA-8B8A-5665080FB8CF} = {42A8DC95-1F9C-47B3-BEB7-3B3668B9F10A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A1F3F4B6-A57C-4615-A1A2-916E35880697}
