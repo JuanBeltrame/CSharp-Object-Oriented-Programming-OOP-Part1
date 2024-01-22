@@ -55,5 +55,28 @@ namespace _03._1._01_Library
         {
             cantidad -= monto;
         }
+
+        public static bool ValidarChar(char opcion)
+        {
+            char.ToUpper(opcion);
+            if (opcion == 'D')
+            {
+                return true;
+            }
+            else if (opcion == 'E')
+            {
+                return true;
+            }
+            else if (opcion == 'S')
+            {
+                Console.WriteLine("Muchas gracias por utilizar este cajero");
+                return false;
+            }
+            else
+            {
+                Console.WriteLine("Seleccionar unicamente [D-Deposito para depositos, o bien, E-Extraccion para extraer");
+                return true;
+            }
+        }
     }
 }
