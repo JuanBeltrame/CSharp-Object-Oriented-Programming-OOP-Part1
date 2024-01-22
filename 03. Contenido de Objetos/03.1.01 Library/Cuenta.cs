@@ -10,7 +10,7 @@ namespace _03._1._01_Library
 
         public Cuenta()
         {
-            
+
         }
 
         public Cuenta(string titular, decimal cantidad)
@@ -53,7 +53,7 @@ namespace _03._1._01_Library
 
         public void Retirar(decimal monto)
         {
-            cantidad = -monto;
+            cantidad -= monto;
         }
     }
 }
