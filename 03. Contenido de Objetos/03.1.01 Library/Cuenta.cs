@@ -43,7 +43,7 @@ namespace _03._1._01_Library
         {
             if (cantidad > 0)
             {
-                this.cantidad = cantidad;
+                this.cantidad += cantidad;
             }
             else
             {
@@ -58,13 +58,10 @@ namespace _03._1._01_Library
 
         public static bool ValidarChar(char opcion)
         {
-            char.ToUpper(opcion);
-            if (opcion == 'D')
+            if (opcion != 'D' && opcion != 'E' && opcion != 'S')
             {
-                return true;
-            }
-            else if (opcion == 'E')
-            {
+                Console.WriteLine("Seleccionar unicamente [D-Deposito para depositos, o bien, E-Extraccion para extraer");
+                Console.WriteLine();
                 return true;
             }
             else if (opcion == 'S')
@@ -74,9 +71,9 @@ namespace _03._1._01_Library
             }
             else
             {
-                Console.WriteLine("Seleccionar unicamente [D-Deposito para depositos, o bien, E-Extraccion para extraer");
-                return true;
+                return false;
             }
+
         }
     }
 }

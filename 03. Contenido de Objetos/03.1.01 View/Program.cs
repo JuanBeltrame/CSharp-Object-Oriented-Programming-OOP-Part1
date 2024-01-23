@@ -35,6 +35,7 @@ Console.Title = "Creo que necesito un Prestamo";
 Console.ForegroundColor = ConsoleColor.Yellow;
 
 char op = default;
+char opUpper = default;
 
 
 Console.WriteLine();
@@ -50,9 +51,10 @@ do
     {
         MostrarPantalla();
         char.TryParse(Console.ReadLine(), out op);
-    } while (Cuenta.ValidarChar(op));
-    Menu(op);
-} while (op != 'S');
+        opUpper = char.ToUpper(op);
+    } while (Cuenta.ValidarChar(opUpper));
+    Menu(opUpper);
+} while (opUpper != 'S');
 
 
 
