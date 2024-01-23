@@ -1,5 +1,30 @@
 ﻿using _03._1._01_Library;
 
+/* 
+Ejercicio I01 - Creo que necesito un préstamo - UTN Avellaneda
+----------------------------------------------------------------------
+English:
+
+
+Spanish: 
+Crear una aplicación de consola y una biblioteca de clases que contenga la clase "Cuenta".
+Deberá tener los atributos:
+.titular: Que contendrá la razón social del titular de la cuenta.
+.cantidad: Que será un número decimal que representa al monto actual de dinero en la cuenta.
+
+Construir los siguientes métodos para la clase:
+Un constructor, que permita inicializar todos los atributos.
+Un método getter, para cada atributo.
+Mostrar(), retornará una cadena de texto con todos los datos de la cuenta.
+Ingresar(), recibirá un monto para acreditar a la cuenta. Si el monto ingresado es negativo, no se hará nada.
+Retirar(), recibirá un monto para debitar de la cuenta. La cuenta puede quedar en negativo.
+
+En el método Main, simular depósitos y extracciones de dinero de la cuenta, e ir mostrando como va variando el saldo.
+
+----------------------------------------------------------------------
+*/
+
+
 Cuenta cuentaCliente = new Cuenta("Juan Beltrame", 0);
 
 static void MostrarPantalla()
@@ -31,7 +56,7 @@ void Menu(char opcion)
 }
 
 //---------Programa Principal----------
-Console.Title = "Creo que necesito un Prestamo";
+Console.Title = "Ejercicio I01 - Creo que necesito un préstamo - UTN Avellaneda";
 Console.ForegroundColor = ConsoleColor.Yellow;
 
 char op = default;
@@ -43,7 +68,6 @@ Console.WriteLine("------------------------------------------");
 Console.WriteLine($"Bienvenido {cuentaCliente.GetTitular()}");
 Console.WriteLine("------------------------------------------");
 Console.WriteLine();
-
 
 do
 {
