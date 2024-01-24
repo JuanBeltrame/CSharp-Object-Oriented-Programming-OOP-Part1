@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace _03._1._02_Library
 {
@@ -11,7 +12,7 @@ namespace _03._1._02_Library
         public Persona(string nombre, DateTime fechaDeNacimiento, int dni)
         {
             this.nombre = nombre;
-            this.fechaDeNacimiento = fechaDeNacimiento;
+            this.fechaDeNacimiento = fechaDeNacimiento.Date;
             this.dni = dni;
         }
 
@@ -19,7 +20,6 @@ namespace _03._1._02_Library
         {
             return nombre;
         }
-
         public void SetNombre(string nombre)
         {
             this.nombre = nombre;
@@ -27,9 +27,9 @@ namespace _03._1._02_Library
 
         public DateTime GetBirthDay()
         {
+            
             return fechaDeNacimiento;
         }
-
         public void SetBirthDay(DateTime fechaDeNacimiento)
         {
             this.fechaDeNacimiento = fechaDeNacimiento;
@@ -39,18 +39,44 @@ namespace _03._1._02_Library
         {
             return dni;
         }
-
         public void SetDNI(int dni)
         {
             this.dni = dni;
         }
 
 
-        private TimeSpan CalcularEdad(DateTime fechaDeNacimiento)
+        private int CalcularEdad()
         {
             DateTime diaActual = DateTime.Today;
-            TimeSpan edad = diaActual - fechaDeNacimiento;
-            return e;
+            int anioActual = diaActual.Year;
+            int anioNacimiento = fechaDeNacimiento.Year;
+            int edad = anioActual - anioNacimiento;
+
+            return edad;
         }
+        public StringBuilder Mostrar()
+        {
+            StringBuilder sb = new();
+            sb.AppendLine("Nombre: " + nombre);
+            sb.AppendLine("Fecha de Nacimiento: " + fechaDeNacimiento.Date.ToString());
+            sb.AppendLine("dni: " + dni.ToString());
+            sb.AppendLine("Edad: " + CalcularEdad());
+
+            return sb;
+        }
+        //public string EsMayorDeEdad()
+        //{
+        //    CalcularEdad();
+
+            
+        //    if ()
+        //    {
+        //        return "Es mayor de edad";
+        //    }
+        //    else
+        //    {
+        //        return "Es menor";
+        //    }
+        //}
     }
 }

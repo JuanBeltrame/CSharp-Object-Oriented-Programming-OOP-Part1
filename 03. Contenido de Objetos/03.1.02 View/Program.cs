@@ -27,3 +27,18 @@ Mostrar quiénes son mayores de edad y quiénes no.
 ----------------------------------------------------------------------
 */
 
+//-----Programa Principal-----
+using _03._1._02_Library;
+
+
+Persona persona01 = new Persona("Juan Beltrame.", new DateTime(1987, 5, 30), 32713684);
+Persona persona02 = new Persona("Ariel Betrame.", new DateTime(1991, 5, 30), 31713684);
+Persona persona03 = new Persona("Olivia Beltrame.", new DateTime(2005, 5, 30), 30713684);
+
+Console.WriteLine(persona01.Mostrar());
+//Console.WriteLine(persona01.EsMayorDeEdad());
+
+
+
+
+
