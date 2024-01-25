@@ -8,9 +8,9 @@ Spanish:
 Crear una aplicación de consola y una biblioteca de clases que contenga la clase "Persona".
 
 Deberá tener los atributos:
-nombre,
-fechaDeNacimiento,
-dni,
+. nombre,
+.fechaDeNacimiento,
+. dni,
 
 Deberá tener un "constructor" que inicialice todos los atributos.
 
@@ -30,15 +30,24 @@ Mostrar quiénes son mayores de edad y quiénes no.
 //-----Programa Principal-----
 using _03._1._02_Library;
 
+Console.Title = "Ejercicio I02 - ¿Vos cuántas primaveras tenés? - UTN Avellaneda";
+Console.ForegroundColor = ConsoleColor.Yellow;
 
 Persona persona01 = new Persona("Juan Beltrame.", new DateTime(1987, 5, 30), 32713684);
 Persona persona02 = new Persona("Ariel Betrame.", new DateTime(1991, 5, 30), 31713684);
-Persona persona03 = new Persona("Olivia Beltrame.", new DateTime(2005, 5, 30), 30713684);
+Persona persona03 = new Persona("Olivia Beltrame.", new DateTime(2010, 5, 30), 30713684);
 
+Console.WriteLine("--------------------------");
 Console.WriteLine(persona01.Mostrar());
-//Console.WriteLine(persona01.EsMayorDeEdad());
-
-
-
-
+Console.WriteLine(persona01.EsMayorDeEdad());
+Console.WriteLine("--------------------------");
+Console.WriteLine( );
+Console.WriteLine("--------------------------");
+Console.WriteLine(persona02.Mostrar());
+Console.WriteLine(persona02.EsMayorDeEdad());
+Console.WriteLine();
+Console.WriteLine("--------------------------");
+Console.WriteLine(persona03.Mostrar());
+Console.WriteLine(persona03.EsMayorDeEdad());
+Console.WriteLine("--------------------------");
 

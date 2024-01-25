@@ -64,19 +64,19 @@ namespace _03._1._02_Library
 
             return sb;
         }
-        //public string EsMayorDeEdad()
-        //{
-        //    CalcularEdad();
 
+        public string EsMayorDeEdad()
+        {
+            var edad = CalcularEdad();
             
-        //    if ()
-        //    {
-        //        return "Es mayor de edad";
-        //    }
-        //    else
-        //    {
-        //        return "Es menor";
-        //    }
-        //}
+            if (edad >= 18)
+            {
+                return "Es mayor de edad";
+            }
+            else
+            {
+                return "Es menor";
+            }
+        }
     }
 }
