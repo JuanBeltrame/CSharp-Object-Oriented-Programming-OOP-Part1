@@ -99,9 +99,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console to work with String
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console to work with TimeSpan", "00. Trabajando con la Base Class Library\Console to work with TimeSpan\Console to work with TimeSpan.csproj", "{47CFEBA9-2A80-4CBB-952D-462BC8714B75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.1.03 Library", "03. Contenido de Objetos\03.1.03 Library\03.1.03 Library.csproj", "{1F463EFB-C1F2-40D3-90B7-8B41E8CE3105}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.1.03 Library", "03. Contenido de Objetos\03.1.03 Library\03.1.03 Library.csproj", "{1F463EFB-C1F2-40D3-90B7-8B41E8CE3105}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.1.03 View", "03. Contenido de Objetos\03.1.03 View\03.1.03 View.csproj", "{AFE14721-C73A-424F-A1EA-78994F28E4B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.1.03 View", "03. Contenido de Objetos\03.1.03 View\03.1.03 View.csproj", "{AFE14721-C73A-424F-A1EA-78994F28E4B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.1.04 View", "03. Contenido de Objetos\03.1.04 View\03.1.04 View.csproj", "{E4D54E89-3332-407B-85B4-D4D472E6932B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.1.04 Library", "03. Contenido de Objetos\03.1.04 Library\03.1.04 Library.csproj", "{907B4B29-BCC5-4608-B49F-74B8926D6D9A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -289,6 +293,14 @@ Global
 		{AFE14721-C73A-424F-A1EA-78994F28E4B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFE14721-C73A-424F-A1EA-78994F28E4B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFE14721-C73A-424F-A1EA-78994F28E4B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4D54E89-3332-407B-85B4-D4D472E6932B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4D54E89-3332-407B-85B4-D4D472E6932B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4D54E89-3332-407B-85B4-D4D472E6932B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4D54E89-3332-407B-85B4-D4D472E6932B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{907B4B29-BCC5-4608-B49F-74B8926D6D9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{907B4B29-BCC5-4608-B49F-74B8926D6D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{907B4B29-BCC5-4608-B49F-74B8926D6D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{907B4B29-BCC5-4608-B49F-74B8926D6D9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -339,6 +351,8 @@ Global
 		{47CFEBA9-2A80-4CBB-952D-462BC8714B75} = {9FE9955D-8A10-4BFB-B9D3-425A806E2F93}
 		{1F463EFB-C1F2-40D3-90B7-8B41E8CE3105} = {E0291246-719F-4258-9E4F-CA69098E95A5}
 		{AFE14721-C73A-424F-A1EA-78994F28E4B5} = {E0291246-719F-4258-9E4F-CA69098E95A5}
+		{E4D54E89-3332-407B-85B4-D4D472E6932B} = {E0291246-719F-4258-9E4F-CA69098E95A5}
+		{907B4B29-BCC5-4608-B49F-74B8926D6D9A} = {E0291246-719F-4258-9E4F-CA69098E95A5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A1F3F4B6-A57C-4615-A1A2-916E35880697}
