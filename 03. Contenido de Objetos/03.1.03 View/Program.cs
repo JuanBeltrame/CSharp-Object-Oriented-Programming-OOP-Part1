@@ -1,5 +1,5 @@
 ﻿/* 
-Ejercicio I02 - ¿Vos cuántas primaveras tenés? - UTN Avellaneda
+Ejercicio I03 - El ejemplo universal - UTN Avellaneda
 ----------------------------------------------------------------------
 English:
 
@@ -13,7 +13,11 @@ La clase Estudiante:
 . El método setter SetNotaPrimerParcial permitirá cambiar el valor del atributo notaPrimerParcial.
 . El método setter SetNotaSegundoParcial permitirá cambiar el valor del atributo notaSegundoParcial.
 . El método privado CalcularPromedio retornará el promedio de las dos notas.
-. El método CalcularNotaFinal deberá retornar la nota del final con un numero aleatorio entre 6 y 10 incluidos siempre y cuando las notas del primer y segundo parcial sean mayores o iguales a 4, caso contrario la inicializará con el valor -1.
+
+. El método CalcularNotaFinal deberá retornar la nota del final con un numero aleatorio entre 6 y 10 incluidos 
+  siempre y cuando las notas del primer y segundo parcial sean mayores o iguales a 4, 
+  caso contrario la inicializará con el valor -1.
+
 . El método Mostrar utilizará StringBuilder para armar una cadena de texto con todos los datos de los alumnos:
     Nombre, apellido y legajo.
     Nota del primer y segundo parcial.
@@ -30,6 +34,40 @@ Para darle un valor aleatorio a la nota final utilice el método de instancia Ne
 */
 
 //-----Programa Principal-----
-Console.Title = "Ejercicio I02 - ¿Vos cuántas primaveras tenés? - UTN Avellaneda";
+using _03._1._03_Library;
+using System;
+
+Console.Title = "Ejercicio I03 - El ejemplo universal - UTN Avellaneda";
 Console.ForegroundColor = ConsoleColor.Yellow;
+
+Estudiante estudiante01 = new Estudiante("Juan", "Beltrame", "46084");
+Estudiante estudiante02 = new Estudiante("Ariel", "Beltrame", "46085");
+Estudiante estudiante03 = new Estudiante("Olivia", "Beltrame", "46086");
+List<Estudiante> listaDeEstudiantes = new() { estudiante01, estudiante02, estudiante03 };
+
+Console.WriteLine("-------------------------------");
+foreach(var estudiante in listaDeEstudiantes)
+{
+    int index = 0;
+    Console.WriteLine($"Alumno: {estudiante.GetNombre()}");
+    Console.Write($"Ingresar nota del Parcial {++index}: " );
+    int.TryParse(Console.ReadLine(), out int nota1);
+    estudiante.SetNotaPrimerParcial(nota1);
+    Console.Write($"Ingresar nota del Parcial {++index}: ");
+    int.TryParse(Console.ReadLine(), out int nota2);
+    estudiante.SetNotaSegundoParcial(nota2);
+}
+Console.WriteLine(  );
+Console.WriteLine("-------------------------------");
+foreach (Estudiante estudiante in listaDeEstudiantes)
+{
+    Console.WriteLine(  );
+    Console.WriteLine(estudiante.MostrarDatos());
+    Console.WriteLine(  );
+}
+Console.WriteLine("-------------------------------");
+
+
+
+
 
