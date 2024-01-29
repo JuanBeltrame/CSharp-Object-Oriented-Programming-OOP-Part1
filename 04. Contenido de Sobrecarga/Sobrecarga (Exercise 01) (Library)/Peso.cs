@@ -1,29 +1,23 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Billetes
+﻿namespace Billetes
 {
-    internal class Dolar
+    public class Peso
     {
-        // Generamos los atributos para Dolar
+        // Generamos los atributos para Peso
         private double cantidad;
         private static double cotizRespectoDolar;
 
         // Generamos los cronstructores de Dolar
-        static Dolar()
+        static Peso()
         {
-            cotizRespectoDolar = 1;
+            cotizRespectoDolar = 180;
         }
 
-        public Dolar(double cantidad)
+        public Peso(double cantidad)
         {
             this.cantidad = cantidad;
         }
 
-        public Dolar(double cantidad, double cotizacion)
+        public Peso(double cantidad, double cotizacion)
         : this(cantidad)
         {
             cotizRespectoDolar = cotizacion;
@@ -48,21 +42,9 @@ namespace Billetes
 
         // Generamos la sobrecarga de Double de forma implicita 
 
-        public static implicit operator Dolar(double d)
+        public static implicit operator Peso(double p)
         {
-            return new Dolar(d);    
-        }
-
-        // Generamos las sobrecargas explicitas para Euro y Peso
-
-        public static explicit operator Euro (Dolar d)
-        {
-            return new Euro(d.cantidad * Euro.GetCotizacion);
-        }
-
-        public static explicit operator Peso (Dolar d)
-        {
-            return new 
+            return new Peso(p);
         }
     }
 }
