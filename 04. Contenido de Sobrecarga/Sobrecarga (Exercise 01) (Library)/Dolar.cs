@@ -62,7 +62,7 @@ namespace Billetes
 
         public static explicit operator Peso (Dolar d)
         {
-            return new 
+            return new Peso(d.cantidad * Euro.GetCotizacion);
         }
     }
 }

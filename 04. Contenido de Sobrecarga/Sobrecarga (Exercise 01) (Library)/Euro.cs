@@ -52,5 +52,17 @@ namespace Billetes
         {
             return new Euro(e);
         }
+
+        // Generamos las sobrecargas explicitas para Peso y Dolar
+
+        public static explicit operator Dolar(Euro e)
+        {
+            return new Dolar(d.cantidad * Euro.GetCotizacion);
+        }
+
+        public static explicit operator Peso(Euro e)
+        {
+            return (Peso)((Dolar)e); // De esta manera re utilizamos las conversiones explicitas
+        }
     }
 }
