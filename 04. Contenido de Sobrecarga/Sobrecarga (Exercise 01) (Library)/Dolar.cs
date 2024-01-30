@@ -101,6 +101,20 @@ namespace Billetes
             return new Dolar(d.GetCantidad - ((Dolar)e).GetCantidad);
         }
 
+        public static Dolar operator -(Dolar d, Peso p)
+        {
+            return new Dolar(d.GetCantidad - ((Dolar)p).GetCantidad);
+        }
+
+        public static Dolar operator +(Dolar d, Euro e)
+        {
+            return new Dolar(d.GetCantidad + ((Dolar)e).GetCantidad);
+        }
+
+        public static Dolar operator +(Dolar d, Peso p)
+        {
+            return new Dolar(d.GetCantidad + ((Dolar)p).GetCantidad);
+        }
 
     }
 }

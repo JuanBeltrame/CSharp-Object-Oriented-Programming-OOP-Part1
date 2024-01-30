@@ -64,5 +64,17 @@ namespace Billetes
         {
             return (Peso)((Dolar)e); // De esta manera re utilizamos las conversiones explicitas
         }
+
+        // Generamos las sobrecargas para los comparadores y operadores aritmeticos
+
+        public static bool operator ==(Euro e1, Euro e2)
+        {
+            return (e1.GetCantidad == e2.GetCantidad);
+        }
+
+        public static bool operator !=(Euro e1, Euro e2)
+        {
+            return !(e1 == e2);
+        }
     }
 }
