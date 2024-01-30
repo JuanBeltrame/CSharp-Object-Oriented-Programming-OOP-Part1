@@ -26,7 +26,7 @@ namespace Billetes
         public Dolar(double cantidad, double cotizacion)
         : this(cantidad)
         {
-            cotizRespectoDolar = cotizacion;
+            Dolar.cotizRespectoDolar = cotizacion;
         }
 
         // Debemos generar los metodos GET, pero en esta ocasion los vamos a remplazar por propiedades
@@ -35,14 +35,14 @@ namespace Billetes
         {
             get
             {
-                return cantidad;
+                return this.cantidad;
             }
         }
         public static double GetCotizacion
         {
             get
             {
-                return cotizRespectoDolar;
+                return Dolar.cotizRespectoDolar;
             }
         }
 
@@ -50,19 +50,57 @@ namespace Billetes
 
         public static implicit operator Dolar(double d)
         {
-            return new Dolar(d);    
+            return new Dolar(d);
         }
 
         // Generamos las sobrecargas explicitas para Euro y Peso
 
-        public static explicit operator Euro (Dolar d)
+        public static explicit operator Euro(Dolar d)
         {
-            return new Euro(d.cantidad * Euro.GetCotizacion);
+            return new Euro((d.cantidad * Euro.GetCotizacion));
         }
 
-        public static explicit operator Peso (Dolar d)
+        public static explicit operator Peso(Dolar d)
         {
-            return new Peso(d.cantidad * Euro.GetCotizacion);
+            return new Peso((d.cantidad * Peso.GetCotizacion));
         }
+
+        // Generamos los operadores y sobrecargamos operadores aritmeticos  
+        public static bool operator ==(Dolar d1, Dolar d2)
+        {
+            return (d1.GetCantidad == d2.GetCantidad);
+        }
+
+        public static bool operator !=(Dolar d1, Dolar d2)
+        {
+            return !(d1 == d2); // reutilizamos la comparacion anteriormente realizada
+        }
+
+        public static bool operator ==(Dolar d, Euro e)
+        {
+            return (d.GetCantidad == ((Dolar)e).GetCantidad);
+        }
+
+        public static bool operator !=(Dolar d, Euro e)
+        {
+            return !(d == e);
+        }
+
+        public static bool operator ==(Dolar d, Peso p)
+        {
+            return (d.GetCantidad == ((Dolar)p).GetCantidad);
+        }
+
+        public static bool operator !=(Dolar d, Peso p)
+        {
+            return !(d == p);
+        }
+
+        public static Dolar operator -(Dolar d, Euro e)
+        {
+            return new Dolar(d.GetCantidad - ((Dolar)e).GetCantidad);
+        }
+
+
     }
 }

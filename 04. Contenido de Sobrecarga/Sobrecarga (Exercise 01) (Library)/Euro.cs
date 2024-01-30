@@ -15,7 +15,7 @@ namespace Billetes
         // Generamos los cronstructores de Dolar
         static Euro()
         {
-            cotizRespectoDolar = 1/1.18;
+            Euro.cotizRespectoDolar = 1/1.18;
         }
 
         public Euro(double cantidad)
@@ -26,7 +26,7 @@ namespace Billetes
         public Euro(double cantidad, double cotizacion)
         : this(cantidad)
         {
-            cotizRespectoDolar = cotizacion;
+            Euro.cotizRespectoDolar = cotizacion;
         }
 
         // Debemos generar los metodos GET, pero en esta ocasion los vamos a remplazar por propiedades
@@ -35,14 +35,14 @@ namespace Billetes
         {
             get
             {
-                return cantidad;
+                return this.cantidad;
             }
         }
         public static double GetCotizacion
         {
             get
             {
-                return cotizRespectoDolar;
+                return Euro.cotizRespectoDolar;
             }
         }
 
@@ -57,7 +57,7 @@ namespace Billetes
 
         public static explicit operator Dolar(Euro e)
         {
-            return new Dolar(d.cantidad * Euro.GetCotizacion);
+            return new Dolar((e.cantidad * Euro.GetCotizacion));
         }
 
         public static explicit operator Peso(Euro e)
