@@ -57,5 +57,8 @@
         {
             return (Euro)((Dolar)p); // De esta manera re utilizamos las conversiones explicitas, tomamos el peso, lo convertimos a dolar y el resultado de este a Euro
         }
+
+        // Generamos las sobrecargas para los comparadores y operadores aritmeticos
+
     }
 }

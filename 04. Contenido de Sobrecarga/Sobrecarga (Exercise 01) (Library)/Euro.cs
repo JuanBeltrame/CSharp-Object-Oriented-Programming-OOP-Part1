@@ -15,7 +15,7 @@ namespace Billetes
         // Generamos los cronstructores de Dolar
         static Euro()
         {
-            Euro.cotizRespectoDolar = 1/1.18;
+            Euro.cotizRespectoDolar = 1 / 1.18;
         }
 
         public Euro(double cantidad)
@@ -76,5 +76,48 @@ namespace Billetes
         {
             return !(e1 == e2);
         }
+
+        public static bool operator ==(Euro e, Dolar d)
+        {
+            return (e.GetCantidad == ((Euro)d).GetCantidad);
+        }
+        public static bool operator !=(Euro e, Dolar d)
+        {
+            return !(e == d);
+        }
+
+        public static bool operator ==(Euro e, Peso p)
+        {
+            return (e.GetCantidad == ((Euro)p).GetCantidad);
+        }
+
+        public static bool operator !=(Euro e, Peso p)
+        {
+            return !(e == p);
+        }
+
+        public static Euro operator -(Euro e, Peso p)
+        {
+            return new Euro(e.GetCantidad - ((Euro)p).GetCantidad);
+        }
+
+        public static Euro operator -(Euro e, Dolar d)
+        {
+            return new Euro(e.GetCantidad - ((Euro)d).GetCantidad);
+        }
+
+        public static Euro operator +(Euro e, Peso p)
+        {
+            return new Euro(e.GetCantidad + ((Euro)p).GetCantidad);
+        }
+
+        public static Euro operator +(Euro e, Dolar d)
+        {
+            return new Euro(e.GetCantidad + ((Euro)d).GetCantidad);
+        }
+
+
+
+
     }
 }
