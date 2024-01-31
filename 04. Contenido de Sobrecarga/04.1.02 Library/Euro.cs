@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Billetes
 {
-    internal class Euro
+    public class Euro
     {
         // Generamos los atributos para Dolar
         private double cantidad;
@@ -15,7 +15,7 @@ namespace Billetes
         // Generamos los cronstructores de Dolar
         static Euro()
         {
-            Euro.cotizRespectoDolar = 1 / 1.18;
+            Euro.cotizRespectoDolar = 1 / 1.08;
         }
 
         public Euro(double cantidad)
@@ -30,7 +30,6 @@ namespace Billetes
         }
 
         // Debemos generar los metodos GET, pero en esta ocasion los vamos a remplazar por propiedades
-
         public double GetCantidad
         {
             get
@@ -47,14 +46,12 @@ namespace Billetes
         }
 
         // Generamos la sobrecarga de Double de forma implicita 
-
         public static implicit operator Euro(double e)
         {
             return new Euro(e);
         }
 
         // Generamos las sobrecargas explicitas para Peso y Dolar
-
         public static explicit operator Dolar(Euro e)
         {
             return new Dolar((e.cantidad * Euro.GetCotizacion));
@@ -66,7 +63,6 @@ namespace Billetes
         }
 
         // Generamos las sobrecargas para los comparadores y operadores aritmeticos
-
         public static bool operator ==(Euro e1, Euro e2)
         {
             return (e1.GetCantidad == e2.GetCantidad);
@@ -115,9 +111,5 @@ namespace Billetes
         {
             return new Euro(e.GetCantidad + ((Euro)d).GetCantidad);
         }
-
-
-
-
     }
 }
