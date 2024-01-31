@@ -103,13 +103,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.1.04 View", "03. Conteni
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.1.04 Library", "03. Contenido de Objetos\03.1.04 Library\03.1.04 Library.csproj", "{907B4B29-BCC5-4608-B49F-74B8926D6D9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.1.02 View", "04. Contenido de Sobrecarga\04.1.02 View\04.1.02 View.csproj", "{720A122D-796B-4144-ABF3-C389A12C0EA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.1.02 View", "04. Contenido de Sobrecarga\04.1.02 View\04.1.02 View.csproj", "{720A122D-796B-4144-ABF3-C389A12C0EA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.1.02 Library", "04. Contenido de Sobrecarga\04.1.02 Library\04.1.02 Library.csproj", "{9455FE56-2904-4830-B122-9F2F3BC96417}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.1.02 Library", "04. Contenido de Sobrecarga\04.1.02 Library\04.1.02 Library.csproj", "{9455FE56-2904-4830-B122-9F2F3BC96417}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.1.01 Library", "04. Contenido de Sobrecarga\04.1.01 Library\04.1.01 Library.csproj", "{EB571991-F266-4AFC-ADF9-C3ED81EE491D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.1.01 Library", "04. Contenido de Sobrecarga\04.1.01 Library\04.1.01 Library.csproj", "{EB571991-F266-4AFC-ADF9-C3ED81EE491D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.1.01 View", "04. Contenido de Sobrecarga\04.1.01 View\04.1.01 View.csproj", "{F5C8551E-F377-45E1-AAFD-91527D035CAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.1.01 View", "04. Contenido de Sobrecarga\04.1.01 View\04.1.01 View.csproj", "{F5C8551E-F377-45E1-AAFD-91527D035CAD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.1.03 View", "04. Contenido de Sobrecarga\04.1.03 View\04.1.03 View.csproj", "{FC37682A-B80D-4135-893C-3CB0049E844E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.1.03 Library", "04. Contenido de Sobrecarga\04.1.03 Library\04.1.03 Library.csproj", "{2F01788A-7FE9-4A29-84B4-3A61AD987A57}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -313,6 +317,14 @@ Global
 		{F5C8551E-F377-45E1-AAFD-91527D035CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5C8551E-F377-45E1-AAFD-91527D035CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5C8551E-F377-45E1-AAFD-91527D035CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC37682A-B80D-4135-893C-3CB0049E844E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC37682A-B80D-4135-893C-3CB0049E844E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC37682A-B80D-4135-893C-3CB0049E844E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC37682A-B80D-4135-893C-3CB0049E844E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F01788A-7FE9-4A29-84B4-3A61AD987A57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F01788A-7FE9-4A29-84B4-3A61AD987A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F01788A-7FE9-4A29-84B4-3A61AD987A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F01788A-7FE9-4A29-84B4-3A61AD987A57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -367,6 +379,8 @@ Global
 		{9455FE56-2904-4830-B122-9F2F3BC96417} = {1228412C-AF0E-4B95-B1E0-FB782649AF4E}
 		{EB571991-F266-4AFC-ADF9-C3ED81EE491D} = {1228412C-AF0E-4B95-B1E0-FB782649AF4E}
 		{F5C8551E-F377-45E1-AAFD-91527D035CAD} = {1228412C-AF0E-4B95-B1E0-FB782649AF4E}
+		{FC37682A-B80D-4135-893C-3CB0049E844E} = {1228412C-AF0E-4B95-B1E0-FB782649AF4E}
+		{2F01788A-7FE9-4A29-84B4-3A61AD987A57} = {1228412C-AF0E-4B95-B1E0-FB782649AF4E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A1F3F4B6-A57C-4615-A1A2-916E35880697}

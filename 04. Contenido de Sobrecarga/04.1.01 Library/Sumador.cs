@@ -13,6 +13,7 @@
 
         }
 
+
         public int GetCantidadSumas()
         {
             return cantidadSumas;
@@ -27,6 +28,7 @@
             cantidadSumas += 1;
             return a + b;
         }
+
 
         public static explicit operator int(Sumador s)
         {
