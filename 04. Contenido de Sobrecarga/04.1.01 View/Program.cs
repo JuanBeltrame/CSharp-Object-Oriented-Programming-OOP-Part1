@@ -66,4 +66,4 @@ Console.WriteLine("-----------------------------------------------");
 
 Console.WriteLine($"Suma de Sumadores: {sumador01 + sumador02}");
 
-Console.WriteLine($"Tienen la misma cantidad de sumas?: {sumador01 - sumador02}");
+Console.WriteLine($"Tienen la misma cantidad de sumas?: {sumador01 | sumador02}");

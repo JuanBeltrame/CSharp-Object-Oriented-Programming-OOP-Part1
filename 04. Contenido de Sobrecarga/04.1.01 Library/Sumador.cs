@@ -26,7 +26,12 @@
         public string Sumar(string a, string b)
         {
             cantidadSumas += 1;
-            return a + b;
+            if(!string.IsNullOrEmpty(a) || !string.IsNullOrEmpty(b))
+            {
+                return a + b;
+            }
+
+            return string.Empty;
         }
 
 
@@ -39,7 +44,7 @@
         {
             return sumador1.cantidadSumas + sumador2.cantidadSumas;
         }
-        public static bool operator -(Sumador sumador1, Sumador sumador2)
+        public static bool operator | (Sumador sumador1, Sumador sumador2)
         {
             return sumador1.cantidadSumas == sumador2.cantidadSumas;
         }
