@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Contenido de Conceptos 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. Contenido de Objetos", "03. Contenido de Objetos", "{E0291246-719F-4258-9E4F-CA69098E95A5}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Contenido de Metodos Estaticos", "02. Contenido de Metodos Estaticos", "{42A8DC95-1F9C-47B3-BEB7-3B3668B9F10A}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Contenido de Metodos Estaticos y de Instancia", "02. Contenido de Metodos Estaticos y de Instancia", "{42A8DC95-1F9C-47B3-BEB7-3B3668B9F10A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library Example 02.0.01", "02. Contenido de Metodos Estaticos\Library Example 02.0.01\Library Example 02.0.01.csproj", "{2944DB7E-80D6-49D1-B715-86893CCEE299}"
 EndProject
@@ -115,9 +115,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.1.03 View", "04. Conteni
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.1.03 Library", "04. Contenido de Sobrecarga\04.1.03 Library\04.1.03 Library.csproj", "{2F01788A-7FE9-4A29-84B4-3A61AD987A57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.1.04 View", "04. Contenido de Sobrecarga\04.1.04 View\04.1.04 View.csproj", "{184FCE4E-46D8-4CAF-A8E3-6E62174C1CFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.1.04 View", "04. Contenido de Sobrecarga\04.1.04 View\04.1.04 View.csproj", "{184FCE4E-46D8-4CAF-A8E3-6E62174C1CFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.1.04 Library", "04. Contenido de Sobrecarga\04.1.04 Library\04.1.04 Library.csproj", "{EF367516-B5A2-403C-ABC6-57D980A84A86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.1.04 Library", "04. Contenido de Sobrecarga\04.1.04 Library\04.1.04 Library.csproj", "{EF367516-B5A2-403C-ABC6-57D980A84A86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library Example 02.0.06", "Library Example 02.0.06\Library Example 02.0.06.csproj", "{CEFBD91D-721E-4876-9D08-3C4F23F2CD6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console Example 02.0.06", "02. Contenido de Metodos Estaticos\Console Example 02.0.06\Console Example 02.0.06.csproj", "{B8A95147-85E2-423E-A5B9-490DA64B2E59}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -337,6 +341,14 @@ Global
 		{EF367516-B5A2-403C-ABC6-57D980A84A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF367516-B5A2-403C-ABC6-57D980A84A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF367516-B5A2-403C-ABC6-57D980A84A86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEFBD91D-721E-4876-9D08-3C4F23F2CD6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEFBD91D-721E-4876-9D08-3C4F23F2CD6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEFBD91D-721E-4876-9D08-3C4F23F2CD6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEFBD91D-721E-4876-9D08-3C4F23F2CD6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8A95147-85E2-423E-A5B9-490DA64B2E59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8A95147-85E2-423E-A5B9-490DA64B2E59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8A95147-85E2-423E-A5B9-490DA64B2E59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8A95147-85E2-423E-A5B9-490DA64B2E59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -395,6 +407,8 @@ Global
 		{2F01788A-7FE9-4A29-84B4-3A61AD987A57} = {1228412C-AF0E-4B95-B1E0-FB782649AF4E}
 		{184FCE4E-46D8-4CAF-A8E3-6E62174C1CFF} = {1228412C-AF0E-4B95-B1E0-FB782649AF4E}
 		{EF367516-B5A2-403C-ABC6-57D980A84A86} = {1228412C-AF0E-4B95-B1E0-FB782649AF4E}
+		{CEFBD91D-721E-4876-9D08-3C4F23F2CD6B} = {42A8DC95-1F9C-47B3-BEB7-3B3668B9F10A}
+		{B8A95147-85E2-423E-A5B9-490DA64B2E59} = {42A8DC95-1F9C-47B3-BEB7-3B3668B9F10A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A1F3F4B6-A57C-4615-A1A2-916E35880697}
