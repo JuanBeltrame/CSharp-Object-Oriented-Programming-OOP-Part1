@@ -6,5 +6,10 @@
         {
             return str.Split(" ", StringSplitOptions.RemoveEmptyEntries).Length;
         }
+
+        public static int ContarPalabras(this string str, int incremento)
+        {
+            return str.Split(" ", StringSplitOptions.RemoveEmptyEntries).Length * incremento;
+        }
     }
 }
