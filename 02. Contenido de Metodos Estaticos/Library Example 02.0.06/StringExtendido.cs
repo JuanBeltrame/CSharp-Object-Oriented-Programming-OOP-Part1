@@ -11,5 +11,22 @@
         {
             return str.Split(" ", StringSplitOptions.RemoveEmptyEntries).Length * incremento;
         }
+
+        public static int ContarCaracteres(this string texto, char caracter)
+        {
+            if (string.IsNullOrEmpty(texto))
+                return 0;
+
+            int contador = 0;
+
+            foreach (char caracterTexto in texto)
+            {
+                if (caracterTexto == caracter)
+                {
+                    contador++;
+                }
+            }
+            return contador;
+        }
     }
 }
