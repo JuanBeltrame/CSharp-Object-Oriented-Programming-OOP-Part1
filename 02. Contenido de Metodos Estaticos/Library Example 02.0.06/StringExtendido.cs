@@ -14,18 +14,26 @@
 
         public static int ContarCaracteres(this string texto, char caracter)
         {
+            return ContarCaracteres(texto, new char[] { caracter });
+        }
+
+        private static int ContarCaracteres(this string texto, char[] caracteres)
+        {
             if (string.IsNullOrEmpty(texto))
                 return 0;
 
+            texto = texto.ToLower();
+
             int contador = 0;
 
-            foreach (char caracterTexto in texto)
+            foreach (char caracter in texto)
             {
-                if (caracterTexto == caracter)
+                if (caracteres.Contains(caracter))
                 {
                     contador++;
                 }
             }
+
             return contador;
         }
     }
