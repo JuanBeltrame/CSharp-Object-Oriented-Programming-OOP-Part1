@@ -1,4 +1,5 @@
-﻿/* 
+﻿
+/* 
 Ejercicio I04 - Invento argentino - UTN Avellaneda
 ----------------------------------------------------------------------
 English:
@@ -25,3 +26,12 @@ Al utilizar el método Pintar, si corresponde, se deberá dibujar por pantalla c
 */
 
 //-----Programa Principal-----
+
+
+internal class Program
+{
+    private static void Main(string[] args)
+    {
+        Console.WriteLine();
+    }
+}
