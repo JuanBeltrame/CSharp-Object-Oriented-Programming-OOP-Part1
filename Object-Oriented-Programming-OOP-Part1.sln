@@ -3,19 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34212.112
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Contenido de Conceptos Basicos", "01. Contenido de Conceptos Basicos", "{0544F13F-67CB-4760-B000-DF39839BCDB7}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Conceptos Basicos", "01. Conceptos Basicos", "{0544F13F-67CB-4760-B000-DF39839BCDB7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. Contenido de Objetos", "03. Contenido de Objetos", "{E0291246-719F-4258-9E4F-CA69098E95A5}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Contenido de Metodos Estaticos y de Instancia", "02. Contenido de Metodos Estaticos y de Instancia", "{42A8DC95-1F9C-47B3-BEB7-3B3668B9F10A}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Metodos Estaticos y de Instancia", "02. Metodos Estaticos y de Instancia", "{42A8DC95-1F9C-47B3-BEB7-3B3668B9F10A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library Example 02.0.01", "02. Contenido de Metodos Estaticos\Library Example 02.0.01\Library Example 02.0.01.csproj", "{2944DB7E-80D6-49D1-B715-86893CCEE299}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library Example 02.0.02", "02. Contenido de Metodos Estaticos\Library Example 02.0.02\Library Example 02.0.02.csproj", "{97E3EF68-E4F9-4782-B1A6-187F49EFB4EE}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. Contenido de Sobrecarga", "04. Contenido de Sobrecarga", "{1228412C-AF0E-4B95-B1E0-FB782649AF4E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. Sobrecarga", "04. Sobrecarga", "{1228412C-AF0E-4B95-B1E0-FB782649AF4E}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00 Trabajando con la Base Class Library", "00 Trabajando con la Base Class Library", "{9FE9955D-8A10-4BFB-B9D3-425A806E2F93}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00. Base Class Library", "00. Base Class Library", "{9FE9955D-8A10-4BFB-B9D3-425A806E2F93}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library Example 02.0.03", "02. Contenido de Metodos Estaticos\Library Example 02.0.03\Library Example 02.0.03.csproj", "{7AC99A5B-0DD2-44AC-ABDE-548D80FFAFBA}"
 EndProject
