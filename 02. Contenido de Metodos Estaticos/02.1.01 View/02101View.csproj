@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\02.1.01 Library\02.1.01 Library.csproj" />
+    <ProjectReference Include="..\02.1.01 Library\02101Library.csproj" />
   </ItemGroup>
 
 </Project>

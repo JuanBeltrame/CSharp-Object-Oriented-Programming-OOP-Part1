@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
-    <RootNamespace>_02._1._04_View</RootNamespace>
+    <RootNamespace>View_For_Static_Methods</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
@@ -15,7 +15,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\02.1.04 Library\02.1.04 Library.csproj" />
+    <ProjectReference Include="..\Library Example 02.0.01\LibraryExample02001.csproj" />
+    <ProjectReference Include="..\Library Example 02.0.02\LibraryExample02002.csproj" />
+    <ProjectReference Include="..\Library Example 02.0.03\LibraryExample02003.csproj" />
+    <ProjectReference Include="..\Library Example 02.0.04\LibraryExample02004.csproj" />
+    <ProjectReference Include="..\Library Example 02.0.05\LibraryExample02005.csproj" />
   </ItemGroup>
 
 </Project>
